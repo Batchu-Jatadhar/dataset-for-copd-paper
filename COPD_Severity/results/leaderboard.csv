@@ -1,0 +1,4 @@
+Model,Accuracy,Precision (W),Recall (W),F1 Score (W),F1 Std
+XGBoost,0.9019,0.9146,0.9019,0.8963,0.072
+Random Forest,0.8233,0.8344,0.8233,0.8138,0.094
+SVM (RBF),0.6448,0.6506,0.6448,0.6291,0.0976

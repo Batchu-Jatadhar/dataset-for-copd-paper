@@ -1,0 +1,21 @@
+# Datasets
+Final_Dataset_PatientSafe/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs and Checkpoints
+*.log
+*.pth
+.ipynb_checkpoints/
+backup_before_cleanup/
+backup_manifest.txt
+cleanup_plan.txt
+repository_inventory.txt
+README.md
+
+# Work in Progress
+Chronic_Bronchitis/
