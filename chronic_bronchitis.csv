@@ -1,0 +1,2017 @@
+Symptoms,Age,Sex,Disease,Treatment,Nature
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,64,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,67,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,63,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,46,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+mucus,33,female,Chronic Bronchitis,x-ray,medium
+mucus,21,female,Chronic Bronchitis,inhealer,medium
+mucus,20,female,Chronic Bronchitis,inhealer,high
+mucus,15,female,Chronic Bronchitis,x-ray,high
+mucus,18,female,Chronic Bronchitis,oxyzen,high
+wheezing,19,female,Chronic Bronchitis,oxyzen,high
+wheezing,12,female,Chronic Bronchitis,oxyzen,high
+wheezing,11,female,Chronic Bronchitis,x-ray,high
+wheezing,4,female,Chronic Bronchitis,x-ray,high
+wheezing,6,female,Chronic Bronchitis,x-ray,high
+wheezing,7,female,Chronic Bronchitis,oxyzen,high
+Wheezing,35,female,Chronic Bronchitis,steroids to reduce inflammation,medium
+Wheezing,10,female,Chronic Bronchitis,steroids to reduce inflammation,
+Wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,inhealer,
+wheezing,10,male,Chronic Bronchitis,oxyzen,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,steroids to reduce inflammation,medium
+chest pain,10,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,11,male,Chronic Bronchitis,x-ray,medium
+chest pain,1,male,Chronic Bronchitis,x-ray,medium
+chest pain,32,male,Chronic Bronchitis,x-ray,high
+chest pain,44,female,Chronic Bronchitis,x-ray,high
+chest pain,42,female,Chronic Bronchitis,x-ray,high
+shortness of breath,24,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,12,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,54,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,56,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,77,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,87,female,Chronic Bronchitis,inhealer,high
+shortness of breath,83,female,Chronic Bronchitis,inhealer,high
+shortness of breath,73,female,Chronic Bronchitis,oxyzen,high
+shortness of breath,63,female,Chronic Bronchitis,steroids to reduce inflammation,high
+shortness of breath,61,female,Chronic Bronchitis,x-ray,high

@@ -1,0 +1,1628 @@
+filename,class,split,filepath,source,patient_id
+Normal (1316).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1316).jpg,ChestX6,
+Normal (172).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (172).jpg,ChestX6,
+Normal (42).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (42).jpg,ChestX6,
+Emphysema_1821.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1821.jpg,ChestX6,
+00002359_009.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00002359_009.png,NIH,00002359
+Normal (672).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (672).jpg,ChestX6,
+00014616_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014616_000.png,NIH,00014616
+Normal (3197).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3197).jpg,ChestX6,
+Normal (800).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (800).jpg,ChestX6,
+Emphysema_1342.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1342.jpg,ChestX6,
+Normal (1750).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1750).jpg,ChestX6,
+Normal (1783).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1783).jpg,ChestX6,
+00008924_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008924_004.png,NIH,00008924
+00004498_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00004498_000.png,NIH,00004498
+00017920_022.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00017920_022.png,NIH,00017920
+00017920_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00017920_001.png,NIH,00017920
+00017920_011.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00017920_011.png,NIH,00017920
+Emphysema_350.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_350.jpg,ChestX6,
+Normal (1122).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1122).jpg,ChestX6,
+00007157_022.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00007157_022.png,NIH,00007157
+00017247_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00017247_001.png,NIH,00017247
+Emphysema_1483.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1483.jpg,ChestX6,
+Normal (991).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (991).jpg,ChestX6,
+Normal (2956).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2956).jpg,ChestX6,
+Emphysema_600.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_600.jpg,ChestX6,
+Normal (1830).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1830).jpg,ChestX6,
+Normal (2669).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2669).jpg,ChestX6,
+00021748_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00021748_002.png,NIH,00021748
+Normal (2509).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2509).jpg,ChestX6,
+Normal (1096).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1096).jpg,ChestX6,
+00027935_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00027935_000.png,NIH,00027935
+Emphysema_1149.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1149.jpg,ChestX6,
+Normal (2300).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2300).jpg,ChestX6,
+00010711_010.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010711_010.png,NIH,00010711
+Emphysema_934.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_934.jpg,ChestX6,
+00005231_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00005231_001.png,NIH,00005231
+Emphysema_1487.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1487.jpg,ChestX6,
+Normal (134).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (134).jpg,ChestX6,
+00020502_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00020502_000.png,NIH,00020502
+Normal (379).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (379).jpg,ChestX6,
+Normal (1625).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1625).jpg,ChestX6,
+Normal (1843).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1843).jpg,ChestX6,
+Emphysema_1060.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1060.jpg,ChestX6,
+Emphysema_733.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_733.jpg,ChestX6,
+Emphysema_2417.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2417.jpg,ChestX6,
+Emphysema_64.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_64.jpg,ChestX6,
+Emphysema_1197.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1197.jpg,ChestX6,
+00015833_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015833_000.png,NIH,00015833
+Normal (1234).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1234).jpg,ChestX6,
+Normal (342).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (342).jpg,ChestX6,
+Normal (2144).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2144).jpg,ChestX6,
+Normal (39).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (39).jpg,ChestX6,
+00029843_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00029843_000.png,NIH,00029843
+Emphysema_739.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_739.jpg,ChestX6,
+Normal (2765).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2765).jpg,ChestX6,
+Normal (1146).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1146).jpg,ChestX6,
+Normal (1487).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1487).jpg,ChestX6,
+Emphysema_2498.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2498.jpg,ChestX6,
+Normal (1211).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1211).jpg,ChestX6,
+Normal (242).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (242).jpg,ChestX6,
+Normal (1902).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1902).jpg,ChestX6,
+00000621_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00000621_003.png,NIH,00000621
+Normal (3239).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3239).jpg,ChestX6,
+Normal (1919).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1919).jpg,ChestX6,
+Emphysema_643.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_643.jpg,ChestX6,
+Emphysema_1579.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1579.jpg,ChestX6,
+Emphysema_429.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_429.jpg,ChestX6,
+Normal (3108).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3108).jpg,ChestX6,
+Emphysema_47.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_47.jpg,ChestX6,
+Emphysema_235.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_235.jpg,ChestX6,
+00023200_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00023200_000.png,NIH,00023200
+Normal (3122).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3122).jpg,ChestX6,
+Emphysema_2215.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2215.jpg,ChestX6,
+Normal (353).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (353).jpg,ChestX6,
+Emphysema_1626.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1626.jpg,ChestX6,
+00000927_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00000927_000.png,NIH,00000927
+Normal (3172).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3172).jpg,ChestX6,
+Normal (1965).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1965).jpg,ChestX6,
+00010808_008.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010808_008.png,NIH,00010808
+Normal (1068).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1068).jpg,ChestX6,
+00028131_014.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00028131_014.png,NIH,00028131
+Normal (671).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (671).jpg,ChestX6,
+Emphysema_2387.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2387.jpg,ChestX6,
+Normal (710).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (710).jpg,ChestX6,
+Emphysema_549.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_549.jpg,ChestX6,
+00008232_018.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00008232_018.png,NIH,00008232
+Normal (1884).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1884).jpg,ChestX6,
+Emphysema_1958.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1958.jpg,ChestX6,
+00026725_006.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00026725_006.png,NIH,00026725
+00011266_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00011266_000.png,NIH,00011266
+00000955_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00000955_004.png,NIH,00000955
+Normal (1896).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1896).jpg,ChestX6,
+Emphysema_381.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_381.jpg,ChestX6,
+Emphysema_842.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_842.jpg,ChestX6,
+00016883_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016883_001.png,NIH,00016883
+Normal (619).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (619).jpg,ChestX6,
+Normal (2636).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2636).jpg,ChestX6,
+Normal (2915).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2915).jpg,ChestX6,
+Normal (1872).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1872).jpg,ChestX6,
+00022400_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00022400_000.png,NIH,00022400
+Normal (2651).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2651).jpg,ChestX6,
+Normal (2873).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2873).jpg,ChestX6,
+Emphysema_1272.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1272.jpg,ChestX6,
+00020080_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00020080_000.png,NIH,00020080
+Normal (696).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (696).jpg,ChestX6,
+Normal (2867).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2867).jpg,ChestX6,
+Normal (319).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (319).jpg,ChestX6,
+Normal (2099).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2099).jpg,ChestX6,
+Normal (2820).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2820).jpg,ChestX6,
+Normal (1807).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1807).jpg,ChestX6,
+00011960_010.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011960_010.png,NIH,00011960
+00011960_011.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011960_011.png,NIH,00011960
+00011960_012.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011960_012.png,NIH,00011960
+Emphysema_2326.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2326.jpg,ChestX6,
+00022924_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00022924_000.png,NIH,00022924
+Emphysema_2037.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2037.jpg,ChestX6,
+Normal (805).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (805).jpg,ChestX6,
+Emphysema_1.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1.jpg,ChestX6,
+00003676_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00003676_000.png,NIH,00003676
+Normal (3120).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3120).jpg,ChestX6,
+Normal (1952).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1952).jpg,ChestX6,
+00001944_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00001944_001.png,NIH,00001944
+Normal (752).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (752).jpg,ChestX6,
+Normal (304).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (304).jpg,ChestX6,
+Normal (2354).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2354).jpg,ChestX6,
+Emphysema_1315.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1315.jpg,ChestX6,
+Emphysema_2481.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2481.jpg,ChestX6,
+Normal (1540).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1540).jpg,ChestX6,
+Emphysema_1410.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1410.jpg,ChestX6,
+Normal (1635).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1635).jpg,ChestX6,
+Normal (2441).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2441).jpg,ChestX6,
+Normal (1747).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1747).jpg,ChestX6,
+Normal (2701).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2701).jpg,ChestX6,
+00009265_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00009265_001.png,NIH,00009265
+00009559_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00009559_000.png,NIH,00009559
+00022665_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00022665_000.png,NIH,00022665
+00006425_027.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00006425_027.png,NIH,00006425
+00006425_028.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00006425_028.png,NIH,00006425
+Emphysema_167.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_167.jpg,ChestX6,
+Emphysema_1263.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1263.jpg,ChestX6,
+00026546_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00026546_003.png,NIH,00026546
+00026546_008.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00026546_008.png,NIH,00026546
+00026546_009.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00026546_009.png,NIH,00026546
+00026546_011.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00026546_011.png,NIH,00026546
+00026546_012.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00026546_012.png,NIH,00026546
+00026546_013.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00026546_013.png,NIH,00026546
+00026546_014.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00026546_014.png,NIH,00026546
+Emphysema_1663.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1663.jpg,ChestX6,
+00006803_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00006803_000.png,NIH,00006803
+Normal (339).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (339).jpg,ChestX6,
+00021878_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00021878_001.png,NIH,00021878
+Emphysema_1074.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1074.jpg,ChestX6,
+00029431_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029431_003.png,NIH,00029431
+00029431_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00029431_002.png,NIH,00029431
+00006647_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00006647_000.png,NIH,00006647
+00019222_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00019222_007.png,NIH,00019222
+00010915_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010915_000.png,NIH,00010915
+Normal (1286).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1286).jpg,ChestX6,
+00013769_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00013769_000.png,NIH,00013769
+Emphysema_1514.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1514.jpg,ChestX6,
+Normal (2438).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2438).jpg,ChestX6,
+Emphysema_485.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_485.jpg,ChestX6,
+00003227_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00003227_002.png,NIH,00003227
+Emphysema_2309.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2309.jpg,ChestX6,
+Normal (2617).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2617).jpg,ChestX6,
+00019894_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00019894_007.png,NIH,00019894
+00019894_008.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00019894_008.png,NIH,00019894
+00019894_009.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00019894_009.png,NIH,00019894
+Normal (882).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (882).jpg,ChestX6,
+Normal (82).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (82).jpg,ChestX6,
+Normal (2645).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2645).jpg,ChestX6,
+00024415_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00024415_000.png,NIH,00024415
+00029046_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00029046_000.png,NIH,00029046
+Emphysema_1121.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1121.jpg,ChestX6,
+00005348_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005348_000.png,NIH,00005348
+Emphysema_1205.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1205.jpg,ChestX6,
+Normal (750).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (750).jpg,ChestX6,
+00009829_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00009829_000.png,NIH,00009829
+Emphysema_699.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_699.jpg,ChestX6,
+Normal (961).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (961).jpg,ChestX6,
+Normal (2758).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2758).jpg,ChestX6,
+Emphysema_1186.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1186.jpg,ChestX6,
+Emphysema_1937.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1937.jpg,ChestX6,
+00020312_014.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00020312_014.png,NIH,00020312
+00020312_028.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00020312_028.png,NIH,00020312
+Emphysema_2112.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2112.jpg,ChestX6,
+Normal (1680).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1680).jpg,ChestX6,
+00004007_029.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00004007_029.png,NIH,00004007
+Emphysema_900.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_900.jpg,ChestX6,
+Emphysema_1306.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1306.jpg,ChestX6,
+Emphysema_367.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_367.jpg,ChestX6,
+Emphysema_2470.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2470.jpg,ChestX6,
+00016211_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016211_002.png,NIH,00016211
+Emphysema_1386.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1386.jpg,ChestX6,
+00026867_005.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00026867_005.png,NIH,00026867
+Normal (947).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (947).jpg,ChestX6,
+Normal (2226).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2226).jpg,ChestX6,
+Normal (1450).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1450).jpg,ChestX6,
+Normal (814).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (814).jpg,ChestX6,
+00002781_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00002781_000.png,NIH,00002781
+Normal (158).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (158).jpg,ChestX6,
+Normal (1402).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1402).jpg,ChestX6,
+Normal (212).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (212).jpg,ChestX6,
+Emphysema_2305.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2305.jpg,ChestX6,
+Normal (1726).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1726).jpg,ChestX6,
+00019248_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00019248_002.png,NIH,00019248
+Normal (2521).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2521).jpg,ChestX6,
+Normal (1079).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1079).jpg,ChestX6,
+Normal (1968).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1968).jpg,ChestX6,
+Normal (1093).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1093).jpg,ChestX6,
+Normal (1404).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1404).jpg,ChestX6,
+00013262_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00013262_003.png,NIH,00013262
+Emphysema_1719.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1719.jpg,ChestX6,
+00027982_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00027982_002.png,NIH,00027982
+00027982_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00027982_003.png,NIH,00027982
+00022790_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00022790_000.png,NIH,00022790
+00020290_013.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00020290_013.png,NIH,00020290
+00011558_008.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00011558_008.png,NIH,00011558
+Normal (613).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (613).jpg,ChestX6,
+Emphysema_2104.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2104.jpg,ChestX6,
+Normal (2526).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2526).jpg,ChestX6,
+Normal (628).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (628).jpg,ChestX6,
+Emphysema_266.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_266.jpg,ChestX6,
+Emphysema_1910.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1910.jpg,ChestX6,
+00012543_018.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00012543_018.png,NIH,00012543
+00016358_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00016358_004.png,NIH,00016358
+Normal (174).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (174).jpg,ChestX6,
+Normal (1849).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1849).jpg,ChestX6,
+Emphysema_419.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_419.jpg,ChestX6,
+00026828_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00026828_002.png,NIH,00026828
+Emphysema_1047.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1047.jpg,ChestX6,
+Emphysema_983.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_983.jpg,ChestX6,
+Normal (2153).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2153).jpg,ChestX6,
+00008009_009.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00008009_009.png,NIH,00008009
+00008009_036.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008009_036.png,NIH,00008009
+00012752_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00012752_000.png,NIH,00012752
+Emphysema_2392.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2392.jpg,ChestX6,
+00014022_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014022_002.png,NIH,00014022
+00014022_012.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014022_012.png,NIH,00014022
+00014022_037.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014022_037.png,NIH,00014022
+00014022_044.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014022_044.png,NIH,00014022
+00014022_045.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014022_045.png,NIH,00014022
+00014022_057.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014022_057.png,NIH,00014022
+00014022_009.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00014022_009.png,NIH,00014022
+Normal (598).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (598).jpg,ChestX6,
+00012644_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00012644_000.png,NIH,00012644
+Normal (3230).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3230).jpg,ChestX6,
+Emphysema_2265.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2265.jpg,ChestX6,
+Normal (3128).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3128).jpg,ChestX6,
+00016818_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00016818_000.png,NIH,00016818
+Emphysema_644.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_644.jpg,ChestX6,
+00008064_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00008064_000.png,NIH,00008064
+Normal (2080).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2080).jpg,ChestX6,
+Emphysema_1485.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1485.jpg,ChestX6,
+Emphysema_1658.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1658.jpg,ChestX6,
+Normal (1814).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1814).jpg,ChestX6,
+Normal (3124).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3124).jpg,ChestX6,
+00026847_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00026847_000.png,NIH,00026847
+00008127_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008127_000.png,NIH,00008127
+Normal (266).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (266).jpg,ChestX6,
+00007335_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00007335_000.png,NIH,00007335
+00026624_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00026624_000.png,NIH,00026624
+Emphysema_2475.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2475.jpg,ChestX6,
+00029723_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029723_001.png,NIH,00029723
+Emphysema_2377.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2377.jpg,ChestX6,
+Normal (1622).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1622).jpg,ChestX6,
+00017908_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00017908_000.png,NIH,00017908
+Normal (2464).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2464).jpg,ChestX6,
+Emphysema_1098.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1098.jpg,ChestX6,
+Emphysema_622.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_622.jpg,ChestX6,
+Emphysema_385.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_385.jpg,ChestX6,
+00027592_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027592_000.png,NIH,00027592
+00027592_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027592_003.png,NIH,00027592
+00027592_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027592_004.png,NIH,00027592
+00027592_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027592_005.png,NIH,00027592
+00027592_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027592_006.png,NIH,00027592
+00027592_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027592_007.png,NIH,00027592
+00027592_013.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027592_013.png,NIH,00027592
+00027592_014.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027592_014.png,NIH,00027592
+00027592_015.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027592_015.png,NIH,00027592
+00027592_017.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027592_017.png,NIH,00027592
+00027592_019.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027592_019.png,NIH,00027592
+00027592_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00027592_002.png,NIH,00027592
+00010628_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010628_001.png,NIH,00010628
+Normal (85).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (85).jpg,ChestX6,
+00009658_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00009658_000.png,NIH,00009658
+Emphysema_1168.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1168.jpg,ChestX6,
+Emphysema_1381.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1381.jpg,ChestX6,
+Emphysema_1552.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1552.jpg,ChestX6,
+Normal (997).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (997).jpg,ChestX6,
+Emphysema_888.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_888.jpg,ChestX6,
+Normal (1818).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1818).jpg,ChestX6,
+Normal (1946).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1946).jpg,ChestX6,
+Emphysema_105.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_105.jpg,ChestX6,
+00029822_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00029822_000.png,NIH,00029822
+00029822_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00029822_002.png,NIH,00029822
+Normal (454).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (454).jpg,ChestX6,
+Normal (1786).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1786).jpg,ChestX6,
+00012217_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012217_001.png,NIH,00012217
+00013641_005.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00013641_005.png,NIH,00013641
+00013641_040.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00013641_040.png,NIH,00013641
+Emphysema_2516.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2516.jpg,ChestX6,
+00025527_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00025527_005.png,NIH,00025527
+Normal (3200).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3200).jpg,ChestX6,
+Normal (34).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (34).jpg,ChestX6,
+Normal (1358).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1358).jpg,ChestX6,
+Normal (3258).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3258).jpg,ChestX6,
+Emphysema_413.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_413.jpg,ChestX6,
+Normal (849).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (849).jpg,ChestX6,
+00017338_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00017338_000.png,NIH,00017338
+Normal (545).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (545).jpg,ChestX6,
+Emphysema_1254.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1254.jpg,ChestX6,
+Emphysema_1353.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1353.jpg,ChestX6,
+Normal (1183).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1183).jpg,ChestX6,
+00021441_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00021441_001.png,NIH,00021441
+00011746_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00011746_002.png,NIH,00011746
+Normal (610).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (610).jpg,ChestX6,
+Normal (642).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (642).jpg,ChestX6,
+Emphysema_1011.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1011.jpg,ChestX6,
+00000937_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00000937_001.png,NIH,00000937
+00000937_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00000937_002.png,NIH,00000937
+00000937_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00000937_003.png,NIH,00000937
+00000937_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00000937_004.png,NIH,00000937
+Normal (1906).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1906).jpg,ChestX6,
+Normal (2534).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2534).jpg,ChestX6,
+Emphysema_1458.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1458.jpg,ChestX6,
+00006304_020.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00006304_020.png,NIH,00006304
+00018853_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00018853_003.png,NIH,00018853
+Emphysema_1428.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1428.jpg,ChestX6,
+00006532_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00006532_002.png,NIH,00006532
+Normal (2116).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2116).jpg,ChestX6,
+Emphysema_1025.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1025.jpg,ChestX6,
+00030111_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00030111_003.png,NIH,00030111
+00030111_011.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00030111_011.png,NIH,00030111
+00030111_013.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00030111_013.png,NIH,00030111
+Normal (633).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (633).jpg,ChestX6,
+Normal (3060).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3060).jpg,ChestX6,
+Emphysema_873.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_873.jpg,ChestX6,
+00029807_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029807_001.png,NIH,00029807
+00029807_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029807_002.png,NIH,00029807
+00029807_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029807_003.png,NIH,00029807
+00029807_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029807_004.png,NIH,00029807
+00029807_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029807_005.png,NIH,00029807
+Normal (1207).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1207).jpg,ChestX6,
+Normal (1837).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1837).jpg,ChestX6,
+00015869_006.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015869_006.png,NIH,00015869
+00015869_010.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015869_010.png,NIH,00015869
+00026690_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00026690_000.png,NIH,00026690
+00005600_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005600_007.png,NIH,00005600
+Normal (3057).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3057).jpg,ChestX6,
+Emphysema_2126.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2126.jpg,ChestX6,
+Emphysema_1021.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1021.jpg,ChestX6,
+00016554_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00016554_002.png,NIH,00016554
+Normal (1685).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1685).jpg,ChestX6,
+Normal (1708).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1708).jpg,ChestX6,
+Normal (521).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (521).jpg,ChestX6,
+00002292_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00002292_001.png,NIH,00002292
+Normal (2057).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2057).jpg,ChestX6,
+00005216_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00005216_000.png,NIH,00005216
+00005216_009.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00005216_009.png,NIH,00005216
+Emphysema_9652.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_9652.jpg,ChestX6,
+00002878_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00002878_002.png,NIH,00002878
+00002878_005.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00002878_005.png,NIH,00002878
+Emphysema_621.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_621.jpg,ChestX6,
+00005890_007.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00005890_007.png,NIH,00005890
+00000710_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00000710_005.png,NIH,00000710
+Normal (834).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (834).jpg,ChestX6,
+00030013_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00030013_000.png,NIH,00030013
+Normal (1361).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1361).jpg,ChestX6,
+00005756_005.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00005756_005.png,NIH,00005756
+00015443_016.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015443_016.png,NIH,00015443
+Emphysema_2300.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2300.jpg,ChestX6,
+00029617_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029617_002.png,NIH,00029617
+00018557_014.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00018557_014.png,NIH,00018557
+00018557_018.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00018557_018.png,NIH,00018557
+Normal (2283).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2283).jpg,ChestX6,
+Normal (679).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (679).jpg,ChestX6,
+00012303_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012303_005.png,NIH,00012303
+Normal (2546).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2546).jpg,ChestX6,
+00001266_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00001266_000.png,NIH,00001266
+Normal (2830).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2830).jpg,ChestX6,
+00001256_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00001256_005.png,NIH,00001256
+00001256_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00001256_006.png,NIH,00001256
+00001256_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00001256_007.png,NIH,00001256
+00001256_008.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00001256_008.png,NIH,00001256
+00001256_009.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00001256_009.png,NIH,00001256
+Normal (405).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (405).jpg,ChestX6,
+00004134_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00004134_002.png,NIH,00004134
+Emphysema_1873.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1873.jpg,ChestX6,
+00010422_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010422_001.png,NIH,00010422
+00015816_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015816_002.png,NIH,00015816
+Emphysema_1192.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1192.jpg,ChestX6,
+Normal (2119).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2119).jpg,ChestX6,
+Normal (246).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (246).jpg,ChestX6,
+Emphysema_6.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_6.jpg,ChestX6,
+00012624_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012624_000.png,NIH,00012624
+Normal (639).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (639).jpg,ChestX6,
+00011649_013.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00011649_013.png,NIH,00011649
+Normal (2784).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2784).jpg,ChestX6,
+Normal (1836).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1836).jpg,ChestX6,
+Emphysema_22.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_22.jpg,ChestX6,
+Emphysema_2336.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2336.jpg,ChestX6,
+00015700_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015700_002.png,NIH,00015700
+00015700_017.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015700_017.png,NIH,00015700
+Emphysema_1229.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1229.jpg,ChestX6,
+Emphysema_2405.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2405.jpg,ChestX6,
+Normal (1727).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1727).jpg,ChestX6,
+00001224_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00001224_000.png,NIH,00001224
+Emphysema_2285.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2285.jpg,ChestX6,
+00003059_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00003059_000.png,NIH,00003059
+Emphysema_1202.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1202.jpg,ChestX6,
+00029244_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029244_002.png,NIH,00029244
+Normal (3075).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3075).jpg,ChestX6,
+Emphysema_1585.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1585.jpg,ChestX6,
+00028109_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00028109_000.png,NIH,00028109
+00027986_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00027986_000.png,NIH,00027986
+Emphysema_1587.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1587.jpg,ChestX6,
+Normal (3241).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3241).jpg,ChestX6,
+Normal (480).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (480).jpg,ChestX6,
+Emphysema_324.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_324.jpg,ChestX6,
+Normal (585).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (585).jpg,ChestX6,
+00014438_011.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00014438_011.png,NIH,00014438
+00025324_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00025324_002.png,NIH,00025324
+00014753_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014753_005.png,NIH,00014753
+Emphysema_812.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_812.jpg,ChestX6,
+00012839_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00012839_000.png,NIH,00012839
+Emphysema_314.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_314.jpg,ChestX6,
+Emphysema_828.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_828.jpg,ChestX6,
+Normal (3209).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3209).jpg,ChestX6,
+Emphysema_2091.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2091.jpg,ChestX6,
+Normal (709).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (709).jpg,ChestX6,
+Normal (616).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (616).jpg,ChestX6,
+00016778_010.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016778_010.png,NIH,00016778
+00016778_037.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016778_037.png,NIH,00016778
+Emphysema_205.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_205.jpg,ChestX6,
+Emphysema_1194.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1194.jpg,ChestX6,
+Emphysema_1563.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1563.jpg,ChestX6,
+00021381_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00021381_001.png,NIH,00021381
+00021381_012.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00021381_012.png,NIH,00021381
+00012622_019.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012622_019.png,NIH,00012622
+00012622_020.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012622_020.png,NIH,00012622
+00012622_022.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012622_022.png,NIH,00012622
+00012622_023.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012622_023.png,NIH,00012622
+Emphysema_2009.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2009.jpg,ChestX6,
+Normal (2711).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2711).jpg,ChestX6,
+Emphysema_18.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_18.jpg,ChestX6,
+Emphysema_866.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_866.jpg,ChestX6,
+Emphysema_2497.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2497.jpg,ChestX6,
+00019271_018.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00019271_018.png,NIH,00019271
+00015058_011.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015058_011.png,NIH,00015058
+Normal (945).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (945).jpg,ChestX6,
+Normal (37).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (37).jpg,ChestX6,
+Emphysema_278.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_278.jpg,ChestX6,
+Emphysema_2383.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2383.jpg,ChestX6,
+00020311_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00020311_000.png,NIH,00020311
+00003780_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00003780_001.png,NIH,00003780
+00016039_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016039_002.png,NIH,00016039
+00003002_017.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00003002_017.png,NIH,00003002
+Normal (1043).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1043).jpg,ChestX6,
+Normal (995).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (995).jpg,ChestX6,
+00007124_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00007124_004.png,NIH,00007124
+00007124_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00007124_001.png,NIH,00007124
+00016604_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00016604_000.png,NIH,00016604
+Emphysema_400.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_400.jpg,ChestX6,
+Emphysema_730.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_730.jpg,ChestX6,
+00007920_006.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00007920_006.png,NIH,00007920
+00019285_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00019285_001.png,NIH,00019285
+Emphysema_1545.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1545.jpg,ChestX6,
+00015652_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015652_000.png,NIH,00015652
+Emphysema_1277.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1277.jpg,ChestX6,
+Emphysema_827.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_827.jpg,ChestX6,
+00001664_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00001664_001.png,NIH,00001664
+Normal (1224).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1224).jpg,ChestX6,
+Emphysema_2041.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2041.jpg,ChestX6,
+Emphysema_2103.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2103.jpg,ChestX6,
+00026809_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00026809_000.png,NIH,00026809
+00026809_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00026809_001.png,NIH,00026809
+Emphysema_895.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_895.jpg,ChestX6,
+00029903_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029903_002.png,NIH,00029903
+00029903_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029903_004.png,NIH,00029903
+00029903_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029903_005.png,NIH,00029903
+Normal (62).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (62).jpg,ChestX6,
+Normal (698).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (698).jpg,ChestX6,
+00009406_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00009406_001.png,NIH,00009406
+Emphysema_1166.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1166.jpg,ChestX6,
+00002224_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00002224_002.png,NIH,00002224
+00004798_005.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00004798_005.png,NIH,00004798
+Emphysema_2130.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2130.jpg,ChestX6,
+00004458_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00004458_002.png,NIH,00004458
+Normal (1879).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1879).jpg,ChestX6,
+Normal (3017).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3017).jpg,ChestX6,
+Emphysema_24.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_24.jpg,ChestX6,
+00014822_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014822_004.png,NIH,00014822
+00014822_033.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014822_033.png,NIH,00014822
+00017596_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00017596_000.png,NIH,00017596
+Normal (992).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (992).jpg,ChestX6,
+Emphysema_1558.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1558.jpg,ChestX6,
+00003867_006.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00003867_006.png,NIH,00003867
+Normal (2913).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2913).jpg,ChestX6,
+Emphysema_1492.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1492.jpg,ChestX6,
+Emphysema_1907.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1907.jpg,ChestX6,
+Normal (3005).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3005).jpg,ChestX6,
+Emphysema_877.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_877.jpg,ChestX6,
+Normal (517).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (517).jpg,ChestX6,
+00010372_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010372_003.png,NIH,00010372
+00013762_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00013762_002.png,NIH,00013762
+00004268_012.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00004268_012.png,NIH,00004268
+00005549_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00005549_002.png,NIH,00005549
+Emphysema_2036.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2036.jpg,ChestX6,
+00005811_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005811_001.png,NIH,00005811
+00017070_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00017070_003.png,NIH,00017070
+Normal (283).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (283).jpg,ChestX6,
+Normal (3206).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3206).jpg,ChestX6,
+Emphysema_1216.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1216.jpg,ChestX6,
+Emphysema_333.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_333.jpg,ChestX6,
+00010563_024.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010563_024.png,NIH,00010563
+00010563_026.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010563_026.png,NIH,00010563
+Emphysema_4.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_4.jpg,ChestX6,
+Normal (1476).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1476).jpg,ChestX6,
+Normal (973).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (973).jpg,ChestX6,
+Normal (2705).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2705).jpg,ChestX6,
+00022083_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00022083_001.png,NIH,00022083
+Normal (888).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (888).jpg,ChestX6,
+Normal (2625).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2625).jpg,ChestX6,
+00018108_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00018108_000.png,NIH,00018108
+Normal (1188).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1188).jpg,ChestX6,
+Normal (2333).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2333).jpg,ChestX6,
+Emphysema_1442.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1442.jpg,ChestX6,
+00018045_006.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00018045_006.png,NIH,00018045
+00023651_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00023651_000.png,NIH,00023651
+00012648_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012648_001.png,NIH,00012648
+00012648_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012648_002.png,NIH,00012648
+00012648_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012648_003.png,NIH,00012648
+00012648_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012648_004.png,NIH,00012648
+00012648_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012648_005.png,NIH,00012648
+00012648_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012648_006.png,NIH,00012648
+Emphysema_371.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_371.jpg,ChestX6,
+Normal (1441).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1441).jpg,ChestX6,
+Emphysema_2321.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2321.jpg,ChestX6,
+00025688_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00025688_000.png,NIH,00025688
+00012703_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00012703_000.png,NIH,00012703
+Normal (876).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (876).jpg,ChestX6,
+Normal (1249).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1249).jpg,ChestX6,
+00025028_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00025028_000.png,NIH,00025028
+00013150_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00013150_003.png,NIH,00013150
+00013150_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00013150_004.png,NIH,00013150
+Emphysema_160.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_160.jpg,ChestX6,
+00009321_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00009321_000.png,NIH,00009321
+Emphysema_2008.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2008.jpg,ChestX6,
+Emphysema_596.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_596.jpg,ChestX6,
+00019952_006.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00019952_006.png,NIH,00019952
+Normal (2324).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2324).jpg,ChestX6,
+00000704_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00000704_000.png,NIH,00000704
+Normal (2869).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2869).jpg,ChestX6,
+Normal (2493).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2493).jpg,ChestX6,
+Emphysema_1231.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1231.jpg,ChestX6,
+00002534_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00002534_002.png,NIH,00002534
+Normal (1304).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1304).jpg,ChestX6,
+Normal (3073).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3073).jpg,ChestX6,
+Emphysema_675.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_675.jpg,ChestX6,
+00004005_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00004005_000.png,NIH,00004005
+00020017_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00020017_000.png,NIH,00020017
+00020158_011.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00020158_011.png,NIH,00020158
+00013591_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00013591_002.png,NIH,00013591
+Emphysema_1668.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1668.jpg,ChestX6,
+Emphysema_68.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_68.jpg,ChestX6,
+00010832_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010832_003.png,NIH,00010832
+00000353_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00000353_000.png,NIH,00000353
+Emphysema_884.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_884.jpg,ChestX6,
+Emphysema_1630.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1630.jpg,ChestX6,
+Normal (860).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (860).jpg,ChestX6,
+00007069_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00007069_000.png,NIH,00007069
+00015940_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015940_003.png,NIH,00015940
+Normal (2887).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2887).jpg,ChestX6,
+Emphysema_800.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_800.jpg,ChestX6,
+00016749_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016749_000.png,NIH,00016749
+Normal (3194).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3194).jpg,ChestX6,
+Normal (1320).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1320).jpg,ChestX6,
+00007686_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00007686_001.png,NIH,00007686
+00019003_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00019003_002.png,NIH,00019003
+Emphysema_2281.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2281.jpg,ChestX6,
+00013750_008.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00013750_008.png,NIH,00013750
+Normal (2101).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2101).jpg,ChestX6,
+Emphysema_141.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_141.jpg,ChestX6,
+Normal (1123).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1123).jpg,ChestX6,
+Normal (2621).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2621).jpg,ChestX6,
+00020414_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00020414_000.png,NIH,00020414
+Normal (1558).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1558).jpg,ChestX6,
+Normal (2876).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2876).jpg,ChestX6,
+Emphysema_2145.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2145.jpg,ChestX6,
+Normal (98).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (98).jpg,ChestX6,
+00019178_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00019178_000.png,NIH,00019178
+Emphysema_227.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_227.jpg,ChestX6,
+Emphysema_1685.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1685.jpg,ChestX6,
+Emphysema_1750.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1750.jpg,ChestX6,
+Normal (2807).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2807).jpg,ChestX6,
+00020291_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00020291_001.png,NIH,00020291
+00015366_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015366_000.png,NIH,00015366
+Emphysema_2252.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2252.jpg,ChestX6,
+00016992_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00016992_000.png,NIH,00016992
+Normal (1801).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1801).jpg,ChestX6,
+Emphysema_972.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_972.jpg,ChestX6,
+Normal (2670).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2670).jpg,ChestX6,
+00027533_011.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00027533_011.png,NIH,00027533
+Emphysema_2073.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2073.jpg,ChestX6,
+00022707_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00022707_001.png,NIH,00022707
+00022707_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00022707_004.png,NIH,00022707
+Normal (689).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (689).jpg,ChestX6,
+Emphysema_1969.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1969.jpg,ChestX6,
+00004339_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00004339_002.png,NIH,00004339
+Emphysema_1625.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1625.jpg,ChestX6,
+Normal (2905).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2905).jpg,ChestX6,
+Emphysema_952.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_952.jpg,ChestX6,
+Emphysema_1238.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1238.jpg,ChestX6,
+Normal (2160).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2160).jpg,ChestX6,
+Normal (1022).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1022).jpg,ChestX6,
+00016726_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00016726_000.png,NIH,00016726
+Normal (2995).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2995).jpg,ChestX6,
+Normal (301).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (301).jpg,ChestX6,
+Emphysema_2007.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2007.jpg,ChestX6,
+Emphysema_2438.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2438.jpg,ChestX6,
+00015550_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015550_000.png,NIH,00015550
+Normal (207).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (207).jpg,ChestX6,
+00018429_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00018429_001.png,NIH,00018429
+Normal (2192).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2192).jpg,ChestX6,
+Normal (1205).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1205).jpg,ChestX6,
+Normal (2256).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2256).jpg,ChestX6,
+00025085_015.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00025085_015.png,NIH,00025085
+Emphysema_165.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_165.jpg,ChestX6,
+Normal (1083).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1083).jpg,ChestX6,
+Emphysema_1902.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1902.jpg,ChestX6,
+Normal (2725).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2725).jpg,ChestX6,
+Normal (699).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (699).jpg,ChestX6,
+00023121_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00023121_001.png,NIH,00023121
+Normal (2016).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2016).jpg,ChestX6,
+Emphysema_337.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_337.jpg,ChestX6,
+Emphysema_1973.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1973.jpg,ChestX6,
+Normal (1119).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1119).jpg,ChestX6,
+Normal (2838).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2838).jpg,ChestX6,
+Emphysema_1110.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1110.jpg,ChestX6,
+00013537_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00013537_001.png,NIH,00013537
+00028680_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00028680_000.png,NIH,00028680
+00029619_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029619_000.png,NIH,00029619
+00008922_019.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008922_019.png,NIH,00008922
+Normal (895).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (895).jpg,ChestX6,
+Emphysema_2194.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2194.jpg,ChestX6,
+Emphysema_1862.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1862.jpg,ChestX6,
+00020274_020.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00020274_020.png,NIH,00020274
+00013220_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00013220_000.png,NIH,00013220
+00003423_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00003423_005.png,NIH,00003423
+00003423_009.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00003423_009.png,NIH,00003423
+00003423_012.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00003423_012.png,NIH,00003423
+00003423_015.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00003423_015.png,NIH,00003423
+Normal (2879).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2879).jpg,ChestX6,
+Normal (2874).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2874).jpg,ChestX6,
+00007569_011.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00007569_011.png,NIH,00007569
+Emphysema_21.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_21.jpg,ChestX6,
+Emphysema_820.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_820.jpg,ChestX6,
+Emphysema_1794.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1794.jpg,ChestX6,
+00003268_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00003268_000.png,NIH,00003268
+Normal (2917).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2917).jpg,ChestX6,
+Emphysema_1871.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1871.jpg,ChestX6,
+00001689_015.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00001689_015.png,NIH,00001689
+Emphysema_1820.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1820.jpg,ChestX6,
+Emphysema_1817.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1817.jpg,ChestX6,
+00012942_009.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00012942_009.png,NIH,00012942
+Normal (2254).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2254).jpg,ChestX6,
+00024422_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00024422_000.png,NIH,00024422
+Emphysema_1233.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1233.jpg,ChestX6,
+00030596_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00030596_000.png,NIH,00030596
+00006906_016.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00006906_016.png,NIH,00006906
+00017086_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00017086_000.png,NIH,00017086
+00018592_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00018592_005.png,NIH,00018592
+00018592_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00018592_006.png,NIH,00018592
+00018592_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00018592_007.png,NIH,00018592
+00007475_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00007475_000.png,NIH,00007475
+Normal (2806).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2806).jpg,ChestX6,
+Normal (2660).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2660).jpg,ChestX6,
+Normal (977).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (977).jpg,ChestX6,
+Normal (2129).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2129).jpg,ChestX6,
+00013901_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00013901_003.png,NIH,00013901
+00013901_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00013901_004.png,NIH,00013901
+Normal (2991).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2991).jpg,ChestX6,
+00005100_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00005100_001.png,NIH,00005100
+Emphysema_1145.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1145.jpg,ChestX6,
+Normal (630).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (630).jpg,ChestX6,
+Normal (2979).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2979).jpg,ChestX6,
+Emphysema_2163.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2163.jpg,ChestX6,
+00002152_009.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00002152_009.png,NIH,00002152
+Normal (2121).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2121).jpg,ChestX6,
+00014368_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014368_001.png,NIH,00014368
+Emphysema_2388.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2388.jpg,ChestX6,
+Emphysema_597.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_597.jpg,ChestX6,
+00005794_010.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005794_010.png,NIH,00005794
+00002765_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00002765_000.png,NIH,00002765
+00025733_008.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00025733_008.png,NIH,00025733
+Emphysema_472.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_472.jpg,ChestX6,
+Normal (2262).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2262).jpg,ChestX6,
+00011683_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011683_006.png,NIH,00011683
+00011683_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011683_007.png,NIH,00011683
+00011683_027.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011683_027.png,NIH,00011683
+00011683_039.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011683_039.png,NIH,00011683
+00011683_041.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011683_041.png,NIH,00011683
+00011683_042.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011683_042.png,NIH,00011683
+00011683_060.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011683_060.png,NIH,00011683
+00011683_018.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00011683_018.png,NIH,00011683
+Emphysema_197.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_197.jpg,ChestX6,
+00015392_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015392_000.png,NIH,00015392
+00023506_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00023506_000.png,NIH,00023506
+00011327_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00011327_001.png,NIH,00011327
+00021711_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00021711_002.png,NIH,00021711
+00021711_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00021711_006.png,NIH,00021711
+00021711_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00021711_007.png,NIH,00021711
+00021711_008.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00021711_008.png,NIH,00021711
+Normal (2224).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2224).jpg,ChestX6,
+00008929_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008929_000.png,NIH,00008929
+Emphysema_247.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_247.jpg,ChestX6,
+Normal (2671).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2671).jpg,ChestX6,
+00008888_042.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008888_042.png,NIH,00008888
+Emphysema_876.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_876.jpg,ChestX6,
+Normal (2396).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2396).jpg,ChestX6,
+00008705_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008705_001.png,NIH,00008705
+Emphysema_1170.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1170.jpg,ChestX6,
+Emphysema_2018.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2018.jpg,ChestX6,
+Normal (1144).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1144).jpg,ChestX6,
+Normal (2695).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2695).jpg,ChestX6,
+00009006_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00009006_000.png,NIH,00009006
+Normal (1784).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1784).jpg,ChestX6,
+Emphysema_2355.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2355.jpg,ChestX6,
+Normal (2591).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2591).jpg,ChestX6,
+Normal (1686).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1686).jpg,ChestX6,
+Normal (665).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (665).jpg,ChestX6,
+Normal (1699).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1699).jpg,ChestX6,
+00015298_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015298_000.png,NIH,00015298
+Normal (171).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (171).jpg,ChestX6,
+Normal (1020).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1020).jpg,ChestX6,
+Normal (868).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (868).jpg,ChestX6,
+Emphysema_2138.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2138.jpg,ChestX6,
+00004543_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00004543_000.png,NIH,00004543
+Emphysema_7862.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_7862.jpg,ChestX6,
+Emphysema_89.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_89.jpg,ChestX6,
+00006325_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00006325_004.png,NIH,00006325
+00006325_006.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00006325_006.png,NIH,00006325
+00005188_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00005188_001.png,NIH,00005188
+00013616_007.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00013616_007.png,NIH,00013616
+00013616_017.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00013616_017.png,NIH,00013616
+00014607_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014607_003.png,NIH,00014607
+00018016_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00018016_001.png,NIH,00018016
+Normal (840).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (840).jpg,ChestX6,
+Emphysema_1961.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1961.jpg,ChestX6,
+Normal (1282).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1282).jpg,ChestX6,
+00017234_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00017234_001.png,NIH,00017234
+00022771_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00022771_001.png,NIH,00022771
+Emphysema_2046.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2046.jpg,ChestX6,
+00005440_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00005440_000.png,NIH,00005440
+00029454_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00029454_000.png,NIH,00029454
+Emphysema_868.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_868.jpg,ChestX6,
+00002275_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00002275_002.png,NIH,00002275
+00002275_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00002275_003.png,NIH,00002275
+00002275_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00002275_004.png,NIH,00002275
+00002275_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00002275_005.png,NIH,00002275
+00002275_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00002275_006.png,NIH,00002275
+00002275_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00002275_007.png,NIH,00002275
+00002275_018.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00002275_018.png,NIH,00002275
+00002275_019.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00002275_019.png,NIH,00002275
+00002275_020.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00002275_020.png,NIH,00002275
+Emphysema_347.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_347.jpg,ChestX6,
+00010967_005.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010967_005.png,NIH,00010967
+Normal (1765).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1765).jpg,ChestX6,
+Emphysema_1146.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1146.jpg,ChestX6,
+00005285_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00005285_000.png,NIH,00005285
+Normal (2783).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2783).jpg,ChestX6,
+Emphysema_1356.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1356.jpg,ChestX6,
+Normal (1217).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1217).jpg,ChestX6,
+Emphysema_1445.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1445.jpg,ChestX6,
+Emphysema_1421.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1421.jpg,ChestX6,
+Emphysema_1291.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1291.jpg,ChestX6,
+Normal (670).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (670).jpg,ChestX6,
+Emphysema_736.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_736.jpg,ChestX6,
+Normal (2210).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2210).jpg,ChestX6,
+Emphysema_2162.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2162.jpg,ChestX6,
+Normal (1921).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1921).jpg,ChestX6,
+Normal (451).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (451).jpg,ChestX6,
+Emphysema_128.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_128.jpg,ChestX6,
+Normal (2219).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2219).jpg,ChestX6,
+Normal (1737).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1737).jpg,ChestX6,
+Emphysema_964.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_964.jpg,ChestX6,
+00025924_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00025924_003.png,NIH,00025924
+00025924_011.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00025924_011.png,NIH,00025924
+00025924_012.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00025924_012.png,NIH,00025924
+00025924_013.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00025924_013.png,NIH,00025924
+Normal (2584).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2584).jpg,ChestX6,
+Normal (2676).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2676).jpg,ChestX6,
+00020060_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00020060_001.png,NIH,00020060
+Normal (1411).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1411).jpg,ChestX6,
+Normal (69).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (69).jpg,ChestX6,
+Normal (1870).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1870).jpg,ChestX6,
+Emphysema_1944.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1944.jpg,ChestX6,
+00022866_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00022866_000.png,NIH,00022866
+Normal (1691).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1691).jpg,ChestX6,
+Normal (3026).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3026).jpg,ChestX6,
+Emphysema_1523.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1523.jpg,ChestX6,
+Normal (576).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (576).jpg,ChestX6,
+00004402_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00004402_000.png,NIH,00004402
+00004402_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00004402_001.png,NIH,00004402
+00004402_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00004402_002.png,NIH,00004402
+Emphysema_1575.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1575.jpg,ChestX6,
+Normal (1981).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1981).jpg,ChestX6,
+Normal (1857).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1857).jpg,ChestX6,
+Normal (2943).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2943).jpg,ChestX6,
+Normal (3129).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3129).jpg,ChestX6,
+Normal (1279).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1279).jpg,ChestX6,
+Normal (1547).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1547).jpg,ChestX6,
+Normal (2930).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2930).jpg,ChestX6,
+00016645_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00016645_000.png,NIH,00016645
+Normal (1672).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1672).jpg,ChestX6,
+Normal (1369).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1369).jpg,ChestX6,
+Emphysema_1005.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1005.jpg,ChestX6,
+00002952_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00002952_000.png,NIH,00002952
+Emphysema_1031.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1031.jpg,ChestX6,
+Emphysema_2223.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2223.jpg,ChestX6,
+Normal (1657).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1657).jpg,ChestX6,
+Normal (2733).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2733).jpg,ChestX6,
+Emphysema_2001.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2001.jpg,ChestX6,
+Normal (684).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (684).jpg,ChestX6,
+Emphysema_2342.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2342.jpg,ChestX6,
+Emphysema_40.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_40.jpg,ChestX6,
+Normal (2483).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2483).jpg,ChestX6,
+00009920_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00009920_000.png,NIH,00009920
+00016705_010.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00016705_010.png,NIH,00016705
+Emphysema_1943.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1943.jpg,ChestX6,
+00001238_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00001238_002.png,NIH,00001238
+Emphysema_269.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_269.jpg,ChestX6,
+Normal (2027).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2027).jpg,ChestX6,
+Normal (838).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (838).jpg,ChestX6,
+Normal (1711).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1711).jpg,ChestX6,
+00016355_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016355_000.png,NIH,00016355
+00021451_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00021451_000.png,NIH,00021451
+Normal (2443).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2443).jpg,ChestX6,
+Emphysema_2033.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2033.jpg,ChestX6,
+Emphysema_2186.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2186.jpg,ChestX6,
+00014671_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00014671_001.png,NIH,00014671
+00005681_010.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_010.png,NIH,00005681
+00005681_012.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_012.png,NIH,00005681
+00005681_013.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_013.png,NIH,00005681
+00005681_014.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_014.png,NIH,00005681
+00005681_015.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_015.png,NIH,00005681
+00005681_017.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_017.png,NIH,00005681
+00005681_018.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_018.png,NIH,00005681
+00005681_019.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_019.png,NIH,00005681
+00005681_020.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_020.png,NIH,00005681
+00005681_024.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_024.png,NIH,00005681
+00005681_025.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_025.png,NIH,00005681
+00005681_026.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_026.png,NIH,00005681
+00005681_027.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_027.png,NIH,00005681
+00005681_028.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_028.png,NIH,00005681
+00005681_029.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_029.png,NIH,00005681
+00005681_031.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_031.png,NIH,00005681
+00005681_034.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_034.png,NIH,00005681
+00005681_035.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_035.png,NIH,00005681
+00005681_036.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_036.png,NIH,00005681
+00005681_037.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_037.png,NIH,00005681
+00005681_038.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_038.png,NIH,00005681
+00005681_041.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_041.png,NIH,00005681
+00005681_042.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_042.png,NIH,00005681
+00005681_043.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005681_043.png,NIH,00005681
+Normal (604).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (604).jpg,ChestX6,
+Normal (1485).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1485).jpg,ChestX6,
+00008648_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00008648_002.png,NIH,00008648
+00008648_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00008648_003.png,NIH,00008648
+00007179_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00007179_001.png,NIH,00007179
+Emphysema_1690.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1690.jpg,ChestX6,
+Normal (2981).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2981).jpg,ChestX6,
+Normal (1766).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1766).jpg,ChestX6,
+00011145_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00011145_002.png,NIH,00011145
+Normal (9).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (9).jpg,ChestX6,
+00019754_007.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00019754_007.png,NIH,00019754
+Emphysema_1398.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1398.jpg,ChestX6,
+00028939_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00028939_001.png,NIH,00028939
+Emphysema_1607.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1607.jpg,ChestX6,
+00022374_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00022374_002.png,NIH,00022374
+00016009_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00016009_003.png,NIH,00016009
+00016009_012.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00016009_012.png,NIH,00016009
+00016009_040.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00016009_040.png,NIH,00016009
+Normal (1405).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1405).jpg,ChestX6,
+Emphysema_369.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_369.jpg,ChestX6,
+00016258_009.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016258_009.png,NIH,00016258
+00016258_010.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016258_010.png,NIH,00016258
+00016258_011.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016258_011.png,NIH,00016258
+00016258_012.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016258_012.png,NIH,00016258
+Normal (3111).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3111).jpg,ChestX6,
+Normal (1175).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1175).jpg,ChestX6,
+Emphysema_474.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_474.jpg,ChestX6,
+Normal (1989).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1989).jpg,ChestX6,
+00010634_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010634_003.png,NIH,00010634
+Normal (54).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (54).jpg,ChestX6,
+Normal (1508).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1508).jpg,ChestX6,
+00002570_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00002570_002.png,NIH,00002570
+Normal (2015).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2015).jpg,ChestX6,
+Emphysema_1888.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1888.jpg,ChestX6,
+Normal (2084).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2084).jpg,ChestX6,
+Normal (565).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (565).jpg,ChestX6,
+00013089_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00013089_000.png,NIH,00013089
+00026266_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00026266_000.png,NIH,00026266
+Normal (2925).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2925).jpg,ChestX6,
+00001376_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00001376_004.png,NIH,00001376
+Emphysema_1894.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1894.jpg,ChestX6,
+Emphysema_63.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_63.jpg,ChestX6,
+Emphysema_913.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_913.jpg,ChestX6,
+Normal (597).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (597).jpg,ChestX6,
+00008855_005.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008855_005.png,NIH,00008855
+00008855_010.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008855_010.png,NIH,00008855
+00029866_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029866_001.png,NIH,00029866
+00006042_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00006042_000.png,NIH,00006042
+00006042_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00006042_002.png,NIH,00006042
+Emphysema_745.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_745.jpg,ChestX6,
+Normal (2456).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2456).jpg,ChestX6,
+Normal (3103).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3103).jpg,ChestX6,
+00025360_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00025360_002.png,NIH,00025360
+Emphysema_312.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_312.jpg,ChestX6,
+Normal (1194).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1194).jpg,ChestX6,
+Emphysema_1002.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1002.jpg,ChestX6,
+Emphysema_2251.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2251.jpg,ChestX6,
+Normal (963).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (963).jpg,ChestX6,
+00025480_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00025480_001.png,NIH,00025480
+Normal (1678).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1678).jpg,ChestX6,
+Emphysema_867.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_867.jpg,ChestX6,
+Emphysema_1165.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1165.jpg,ChestX6,
+Normal (3141).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3141).jpg,ChestX6,
+00010887_012.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010887_012.png,NIH,00010887
+Emphysema_2006.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2006.jpg,ChestX6,
+Normal (1075).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1075).jpg,ChestX6,
+00011931_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00011931_000.png,NIH,00011931
+00005991_005.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00005991_005.png,NIH,00005991
+Normal (2031).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2031).jpg,ChestX6,
+Emphysema_1470.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1470.jpg,ChestX6,
+Emphysema_1841.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1841.jpg,ChestX6,
+00023326_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00023326_000.png,NIH,00023326
+Emphysema_2350.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2350.jpg,ChestX6,
+00002763_025.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00002763_025.png,NIH,00002763
+00002763_026.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00002763_026.png,NIH,00002763
+Emphysema_1560.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1560.jpg,ChestX6,
+Emphysema_2514.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2514.jpg,ChestX6,
+Normal (2164).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2164).jpg,ChestX6,
+00005434_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00005434_001.png,NIH,00005434
+Normal (383).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (383).jpg,ChestX6,
+Normal (2723).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2723).jpg,ChestX6,
+00022429_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00022429_003.png,NIH,00022429
+00027304_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027304_001.png,NIH,00027304
+00019246_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00019246_001.png,NIH,00019246
+Emphysema_522.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_522.jpg,ChestX6,
+00004747_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00004747_000.png,NIH,00004747
+00022892_006.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00022892_006.png,NIH,00022892
+00022892_007.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00022892_007.png,NIH,00022892
+Emphysema_551.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_551.jpg,ChestX6,
+Normal (2361).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2361).jpg,ChestX6,
+Normal (2921).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2921).jpg,ChestX6,
+Normal (890).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (890).jpg,ChestX6,
+Emphysema_499.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_499.jpg,ChestX6,
+00005345_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00005345_003.png,NIH,00005345
+Normal (95).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (95).jpg,ChestX6,
+00012002_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012002_000.png,NIH,00012002
+00010081_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010081_000.png,NIH,00010081
+00010188_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010188_001.png,NIH,00010188
+Normal (1897).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1897).jpg,ChestX6,
+00026986_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00026986_002.png,NIH,00026986
+00026986_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00026986_004.png,NIH,00026986
+00026986_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00026986_006.png,NIH,00026986
+00026986_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00026986_007.png,NIH,00026986
+00026986_008.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00026986_008.png,NIH,00026986
+00025346_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00025346_004.png,NIH,00025346
+Normal (1357).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1357).jpg,ChestX6,
+Normal (2963).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2963).jpg,ChestX6,
+Emphysema_1103.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1103.jpg,ChestX6,
+00016797_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016797_001.png,NIH,00016797
+Emphysema_1369.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1369.jpg,ChestX6,
+Emphysema_946.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_946.jpg,ChestX6,
+Emphysema_1541.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1541.jpg,ChestX6,
+Normal (1767).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1767).jpg,ChestX6,
+00023849_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00023849_000.png,NIH,00023849
+Emphysema_1138.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1138.jpg,ChestX6,
+Normal (2510).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2510).jpg,ChestX6,
+Emphysema_588.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_588.jpg,ChestX6,
+Emphysema_2363.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2363.jpg,ChestX6,
+Normal (352).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (352).jpg,ChestX6,
+Emphysema_1539.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1539.jpg,ChestX6,
+00002864_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00002864_002.png,NIH,00002864
+Normal (2211).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2211).jpg,ChestX6,
+Normal (703).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (703).jpg,ChestX6,
+Emphysema_788.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_788.jpg,ChestX6,
+Emphysema_1832.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1832.jpg,ChestX6,
+Emphysema_2069.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2069.jpg,ChestX6,
+00012091_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012091_000.png,NIH,00012091
+Emphysema_1810.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1810.jpg,ChestX6,
+Normal (2852).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2852).jpg,ChestX6,
+Normal (1493).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1493).jpg,ChestX6,
+Normal (290).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (290).jpg,ChestX6,
+Normal (970).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (970).jpg,ChestX6,
+00003685_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00003685_000.png,NIH,00003685
+00015031_022.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015031_022.png,NIH,00015031
+00015031_026.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015031_026.png,NIH,00015031
+Emphysema_2027.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2027.jpg,ChestX6,
+Emphysema_864.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_864.jpg,ChestX6,
+00007775_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00007775_000.png,NIH,00007775
+00008008_011.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00008008_011.png,NIH,00008008
+00008008_014.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00008008_014.png,NIH,00008008
+00008008_015.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00008008_015.png,NIH,00008008
+00008008_016.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00008008_016.png,NIH,00008008
+00008008_018.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00008008_018.png,NIH,00008008
+00008008_025.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008008_025.png,NIH,00008008
+00008008_039.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008008_039.png,NIH,00008008
+00008008_062.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008008_062.png,NIH,00008008
+00003366_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00003366_003.png,NIH,00003366
+Normal (2560).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2560).jpg,ChestX6,
+Normal (2371).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2371).jpg,ChestX6,
+Normal (61).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (61).jpg,ChestX6,
+Normal (1179).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1179).jpg,ChestX6,
+00010814_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010814_001.png,NIH,00010814
+00010814_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010814_002.png,NIH,00010814
+00010814_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010814_004.png,NIH,00010814
+Normal (2683).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2683).jpg,ChestX6,
+Emphysema_1245.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1245.jpg,ChestX6,
+00014628_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00014628_004.png,NIH,00014628
+Normal (136).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (136).jpg,ChestX6,
+00002168_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00002168_000.png,NIH,00002168
+Normal (1321).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1321).jpg,ChestX6,
+00004843_008.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00004843_008.png,NIH,00004843
+Emphysema_709.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_709.jpg,ChestX6,
+Normal (2271).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2271).jpg,ChestX6,
+00027246_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00027246_000.png,NIH,00027246
+Normal (148).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (148).jpg,ChestX6,
+00012376_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012376_005.png,NIH,00012376
+00012376_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012376_007.png,NIH,00012376
+00012376_009.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012376_009.png,NIH,00012376
+00001903_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00001903_000.png,NIH,00001903
+Normal (511).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (511).jpg,ChestX6,
+Normal (1893).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1893).jpg,ChestX6,
+Normal (209).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (209).jpg,ChestX6,
+00015471_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015471_000.png,NIH,00015471
+Normal (1481).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1481).jpg,ChestX6,
+Emphysema_2239.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2239.jpg,ChestX6,
+00027071_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00027071_002.png,NIH,00027071
+00015306_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015306_000.png,NIH,00015306
+00010677_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010677_007.png,NIH,00010677
+00010677_008.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010677_008.png,NIH,00010677
+00010677_010.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010677_010.png,NIH,00010677
+Emphysema_296.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_296.jpg,ChestX6,
+Normal (1174).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1174).jpg,ChestX6,
+Emphysema_1268.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1268.jpg,ChestX6,
+Normal (23).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (23).jpg,ChestX6,
+00008489_008.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008489_008.png,NIH,00008489
+00008489_014.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008489_014.png,NIH,00008489
+Emphysema_246.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_246.jpg,ChestX6,
+00009016_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00009016_002.png,NIH,00009016
+00029570_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029570_001.png,NIH,00029570
+00029570_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029570_004.png,NIH,00029570
+00029570_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00029570_005.png,NIH,00029570
+Normal (1991).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1991).jpg,ChestX6,
+Emphysema_1645.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1645.jpg,ChestX6,
+00010544_019.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010544_019.png,NIH,00010544
+Emphysema_767.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_767.jpg,ChestX6,
+00022610_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00022610_002.png,NIH,00022610
+Emphysema_1217.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1217.jpg,ChestX6,
+Emphysema_1493.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1493.jpg,ChestX6,
+Emphysema_1201.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1201.jpg,ChestX6,
+Normal (2406).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2406).jpg,ChestX6,
+00014626_016.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014626_016.png,NIH,00014626
+00014626_035.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014626_035.png,NIH,00014626
+Normal (233).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (233).jpg,ChestX6,
+Normal (2146).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2146).jpg,ChestX6,
+Normal (1706).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1706).jpg,ChestX6,
+Emphysema_330.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_330.jpg,ChestX6,
+00020819_011.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00020819_011.png,NIH,00020819
+00020819_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00020819_004.png,NIH,00020819
+Normal (1108).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1108).jpg,ChestX6,
+Emphysema_535.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_535.jpg,ChestX6,
+00008745_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008745_000.png,NIH,00008745
+00008745_023.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008745_023.png,NIH,00008745
+00023391_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00023391_000.png,NIH,00023391
+00005167_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005167_000.png,NIH,00005167
+Normal (111).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (111).jpg,ChestX6,
+Emphysema_919.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_919.jpg,ChestX6,
+Normal (2105).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2105).jpg,ChestX6,
+00002177_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00002177_004.png,NIH,00002177
+00021457_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00021457_004.png,NIH,00021457
+Normal (465).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (465).jpg,ChestX6,
+Normal (122).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (122).jpg,ChestX6,
+00015078_008.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015078_008.png,NIH,00015078
+00015078_009.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015078_009.png,NIH,00015078
+00015078_010.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015078_010.png,NIH,00015078
+00015078_011.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015078_011.png,NIH,00015078
+00015078_012.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015078_012.png,NIH,00015078
+Emphysema_1659.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1659.jpg,ChestX6,
+Normal (772).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (772).jpg,ChestX6,
+Normal (1327).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1327).jpg,ChestX6,
+00018395_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00018395_000.png,NIH,00018395
+00001207_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00001207_000.png,NIH,00001207
+00023664_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00023664_000.png,NIH,00023664
+Emphysema_2477.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2477.jpg,ChestX6,
+00016303_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00016303_001.png,NIH,00016303
+Normal (3150).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3150).jpg,ChestX6,
+00001160_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00001160_000.png,NIH,00001160
+00001858_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00001858_000.png,NIH,00001858
+Emphysema_737.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_737.jpg,ChestX6,
+Normal (1746).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1746).jpg,ChestX6,
+Normal (2822).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2822).jpg,ChestX6,
+Normal (2188).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2188).jpg,ChestX6,
+00000211_017.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00000211_017.png,NIH,00000211
+Normal (2924).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2924).jpg,ChestX6,
+Normal (3065).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3065).jpg,ChestX6,
+Normal (1853).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1853).jpg,ChestX6,
+Normal (731).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (731).jpg,ChestX6,
+Normal (552).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (552).jpg,ChestX6,
+Emphysema_2299.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2299.jpg,ChestX6,
+00016805_014.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016805_014.png,NIH,00016805
+00003392_035.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00003392_035.png,NIH,00003392
+00003392_041.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00003392_041.png,NIH,00003392
+00014462_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00014462_001.png,NIH,00014462
+Normal (2871).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2871).jpg,ChestX6,
+00008478_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008478_000.png,NIH,00008478
+Emphysema_1088.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1088.jpg,ChestX6,
+Emphysema_620.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_620.jpg,ChestX6,
+00028902_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00028902_000.png,NIH,00028902
+00028413_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00028413_000.png,NIH,00028413
+Emphysema_1427.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1427.jpg,ChestX6,
+00014760_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00014760_002.png,NIH,00014760
+00002291_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00002291_000.png,NIH,00002291
+Emphysema_1160.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1160.jpg,ChestX6,
+Normal (2004).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2004).jpg,ChestX6,
+Emphysema_1209.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1209.jpg,ChestX6,
+Normal (1215).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1215).jpg,ChestX6,
+Emphysema_1240.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1240.jpg,ChestX6,
+Normal (1337).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1337).jpg,ChestX6,
+Emphysema_1494.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1494.jpg,ChestX6,
+Emphysema_2105.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2105.jpg,ChestX6,
+00006926_009.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00006926_009.png,NIH,00006926
+00006926_012.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00006926_012.png,NIH,00006926
+00006926_013.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00006926_013.png,NIH,00006926
+00009708_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00009708_000.png,NIH,00009708
+Emphysema_1161.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1161.jpg,ChestX6,
+Normal (1027).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1027).jpg,ChestX6,
+Normal (1933).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1933).jpg,ChestX6,
+Emphysema_641.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_641.jpg,ChestX6,
+Normal (2606).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2606).jpg,ChestX6,
+Normal (2812).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2812).jpg,ChestX6,
+00001824_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00001824_000.png,NIH,00001824
+Emphysema_837.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_837.jpg,ChestX6,
+Normal (2791).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2791).jpg,ChestX6,
+00030193_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00030193_000.png,NIH,00030193
+Normal (53).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (53).jpg,ChestX6,
+00029029_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00029029_000.png,NIH,00029029
+Emphysema_2099.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2099.jpg,ChestX6,
+00001055_005.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00001055_005.png,NIH,00001055
+00006471_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00006471_001.png,NIH,00006471
+Normal (2997).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2997).jpg,ChestX6,
+Normal (875).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (875).jpg,ChestX6,
+Normal (220).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (220).jpg,ChestX6,
+00009755_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00009755_004.png,NIH,00009755
+00008068_013.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008068_013.png,NIH,00008068
+Normal (2276).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2276).jpg,ChestX6,
+Normal (2916).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2916).jpg,ChestX6,
+Emphysema_170.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_170.jpg,ChestX6,
+Normal (687).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (687).jpg,ChestX6,
+00017737_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00017737_002.png,NIH,00017737
+Normal (1982).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1982).jpg,ChestX6,
+Normal (2594).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2594).jpg,ChestX6,
+Emphysema_2056.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2056.jpg,ChestX6,
+Normal (878).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (878).jpg,ChestX6,
+Normal (1658).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1658).jpg,ChestX6,
+00013634_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00013634_001.png,NIH,00013634
+Normal (317).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (317).jpg,ChestX6,
+00024216_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00024216_000.png,NIH,00024216
+Normal (3235).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3235).jpg,ChestX6,
+00009169_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00009169_001.png,NIH,00009169
+00028583_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00028583_005.png,NIH,00028583
+00028583_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00028583_006.png,NIH,00028583
+00028583_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00028583_004.png,NIH,00028583
+Normal (1673).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1673).jpg,ChestX6,
+Emphysema_631.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_631.jpg,ChestX6,
+00006925_011.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00006925_011.png,NIH,00006925
+Normal (2039).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2039).jpg,ChestX6,
+Normal (1517).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1517).jpg,ChestX6,
+Emphysema_859.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_859.jpg,ChestX6,
+00012960_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012960_002.png,NIH,00012960
+00012960_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012960_003.png,NIH,00012960
+Emphysema_343.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_343.jpg,ChestX6,
+Normal (1578).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1578).jpg,ChestX6,
+Normal (2524).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2524).jpg,ChestX6,
+Normal (1352).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1352).jpg,ChestX6,
+00003295_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00003295_001.png,NIH,00003295
+Emphysema_917.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_917.jpg,ChestX6,
+00000627_012.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00000627_012.png,NIH,00000627
+Emphysema_716.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_716.jpg,ChestX6,
+00001634_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00001634_001.png,NIH,00001634
+00001634_005.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00001634_005.png,NIH,00001634
+00020894_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00020894_000.png,NIH,00020894
+00027981_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00027981_002.png,NIH,00027981
+00030242_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00030242_000.png,NIH,00030242
+00007504_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00007504_001.png,NIH,00007504
+Normal (215).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (215).jpg,ChestX6,
+00013539_006.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00013539_006.png,NIH,00013539
+Normal (976).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (976).jpg,ChestX6,
+Emphysema_1517.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1517.jpg,ChestX6,
+00017258_015.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00017258_015.png,NIH,00017258
+00017258_016.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00017258_016.png,NIH,00017258
+00017258_017.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00017258_017.png,NIH,00017258
+Normal (2951).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2951).jpg,ChestX6,
+00021222_013.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00021222_013.png,NIH,00021222
+00021222_014.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00021222_014.png,NIH,00021222
+00005177_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00005177_000.png,NIH,00005177
+Emphysema_857.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_857.jpg,ChestX6,
+Normal (986).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (986).jpg,ChestX6,
+00000707_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00000707_000.png,NIH,00000707
+00000707_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00000707_001.png,NIH,00000707
+Emphysema_570.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_570.jpg,ChestX6,
+00015886_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015886_000.png,NIH,00015886
+Normal (2589).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2589).jpg,ChestX6,
+00016607_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016607_002.png,NIH,00016607
+00016607_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016607_006.png,NIH,00016607
+00016607_010.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016607_010.png,NIH,00016607
+00016607_019.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016607_019.png,NIH,00016607
+00016607_025.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016607_025.png,NIH,00016607
+00016607_045.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016607_045.png,NIH,00016607
+Emphysema_119.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_119.jpg,ChestX6,
+00010059_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010059_001.png,NIH,00010059
+00027937_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027937_002.png,NIH,00027937
+00027937_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027937_006.png,NIH,00027937
+00003074_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00003074_000.png,NIH,00003074
+00003074_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00003074_001.png,NIH,00003074
+00011481_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011481_001.png,NIH,00011481
+00011481_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011481_002.png,NIH,00011481
+00011481_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011481_003.png,NIH,00011481
+00006993_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00006993_003.png,NIH,00006993
+Normal (1364).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1364).jpg,ChestX6,
+Normal (2649).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2649).jpg,ChestX6,
+Emphysema_520.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_520.jpg,ChestX6,
+00004751_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00004751_000.png,NIH,00004751
+00004751_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00004751_001.png,NIH,00004751
+00004751_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00004751_002.png,NIH,00004751
+Normal (2290).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2290).jpg,ChestX6,
+Normal (1458).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1458).jpg,ChestX6,
+Emphysema_49.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_49.jpg,ChestX6,
+00030128_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00030128_000.png,NIH,00030128
+Emphysema_833.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_833.jpg,ChestX6,
+Normal (2138).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2138).jpg,ChestX6,
+Emphysema_1083.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1083.jpg,ChestX6,
+00025844_010.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00025844_010.png,NIH,00025844
+Normal (1620).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1620).jpg,ChestX6,
+00010647_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010647_002.png,NIH,00010647
+Normal (228).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (228).jpg,ChestX6,
+Normal (1185).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1185).jpg,ChestX6,
+Normal (2571).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2571).jpg,ChestX6,
+00007039_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00007039_002.png,NIH,00007039
+Normal (2303).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2303).jpg,ChestX6,
+00025228_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00025228_000.png,NIH,00025228
+00025228_011.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00025228_011.png,NIH,00025228
+00002528_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00002528_000.png,NIH,00002528
+00010485_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010485_000.png,NIH,00010485
+Normal (191).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (191).jpg,ChestX6,
+Emphysema_10.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_10.jpg,ChestX6,
+Normal (2593).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2593).jpg,ChestX6,
+Normal (1349).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1349).jpg,ChestX6,
+Emphysema_1180.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1180.jpg,ChestX6,
+Normal (217).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (217).jpg,ChestX6,
+Emphysema_2351.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2351.jpg,ChestX6,
+Normal (100).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (100).jpg,ChestX6,
+Normal (892).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (892).jpg,ChestX6,
+Emphysema_1506.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1506.jpg,ChestX6,
+Normal (1483).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1483).jpg,ChestX6,
+00026641_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00026641_005.png,NIH,00026641
+00026641_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00026641_007.png,NIH,00026641
+00026641_008.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00026641_008.png,NIH,00026641
+Normal (2238).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2238).jpg,ChestX6,
+Emphysema_2410.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2410.jpg,ChestX6,
+00021194_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00021194_000.png,NIH,00021194
+00000151_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00000151_002.png,NIH,00000151
+Emphysema_1889.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1889.jpg,ChestX6,
+00026071_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00026071_000.png,NIH,00026071
+Normal (1683).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1683).jpg,ChestX6,
+00004845_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00004845_000.png,NIH,00004845
+Normal (2341).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2341).jpg,ChestX6,
+Emphysema_289.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_289.jpg,ChestX6,
+00030518_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00030518_000.png,NIH,00030518
+Emphysema_1516.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1516.jpg,ChestX6,
+Normal (3086).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3086).jpg,ChestX6,
+Emphysema_1213.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1213.jpg,ChestX6,
+Emphysema_1897.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1897.jpg,ChestX6,
+Normal (2735).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2735).jpg,ChestX6,
+Normal (1994).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1994).jpg,ChestX6,
+Normal (494).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (494).jpg,ChestX6,
+Normal (581).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (581).jpg,ChestX6,
+00015319_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015319_000.png,NIH,00015319
+Emphysema_22102.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_22102.jpg,ChestX6,
+Emphysema_2200.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2200.jpg,ChestX6,
+00010852_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010852_000.png,NIH,00010852
+00016434_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016434_003.png,NIH,00016434
+00016434_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016434_004.png,NIH,00016434
+00002070_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00002070_000.png,NIH,00002070
+Normal (1006).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1006).jpg,ChestX6,
+00020209_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00020209_001.png,NIH,00020209
+Normal (567).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (567).jpg,ChestX6,
+00003444_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00003444_002.png,NIH,00003444
+Emphysema_48.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_48.jpg,ChestX6,
+Emphysema_459.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_459.jpg,ChestX6,
+00012803_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00012803_000.png,NIH,00012803
+Emphysema_1555.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1555.jpg,ChestX6,
+Emphysema_711.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_711.jpg,ChestX6,
+Normal (1940).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1940).jpg,ChestX6,
+Emphysema_1131.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1131.jpg,ChestX6,
+00015852_009.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00015852_009.png,NIH,00015852
+Emphysema_506.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_506.jpg,ChestX6,
+00005140_011.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005140_011.png,NIH,00005140
+00005140_012.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005140_012.png,NIH,00005140
+00005140_013.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00005140_013.png,NIH,00005140
+00014241_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00014241_001.png,NIH,00014241
+Normal (1880).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1880).jpg,ChestX6,
+00012505_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00012505_002.png,NIH,00012505
+00028433_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00028433_004.png,NIH,00028433
+00028433_011.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00028433_011.png,NIH,00028433
+Normal (500).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (500).jpg,ChestX6,
+Normal (84).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (84).jpg,ChestX6,
+Emphysema_1837.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1837.jpg,ChestX6,
+Normal (859).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (859).jpg,ChestX6,
+Normal (314).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (314).jpg,ChestX6,
+Normal (1794).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1794).jpg,ChestX6,
+00017138_059.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00017138_059.png,NIH,00017138
+00017138_060.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00017138_060.png,NIH,00017138
+00017138_115.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00017138_115.png,NIH,00017138
+00017138_116.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00017138_116.png,NIH,00017138
+00017138_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00017138_002.png,NIH,00017138
+00015646_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015646_000.png,NIH,00015646
+00015646_022.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015646_022.png,NIH,00015646
+00015646_027.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015646_027.png,NIH,00015646
+00015646_029.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015646_029.png,NIH,00015646
+00015646_031.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015646_031.png,NIH,00015646
+00015646_032.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015646_032.png,NIH,00015646
+00015646_033.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015646_033.png,NIH,00015646
+00015646_034.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015646_034.png,NIH,00015646
+00010379_005.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010379_005.png,NIH,00010379
+Emphysema_1684.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1684.jpg,ChestX6,
+Emphysema_2044.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2044.jpg,ChestX6,
+Emphysema_1214.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1214.jpg,ChestX6,
+00008395_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008395_000.png,NIH,00008395
+Normal (2181).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2181).jpg,ChestX6,
+Normal (2501).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2501).jpg,ChestX6,
+Normal (1996).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1996).jpg,ChestX6,
+00011810_010.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00011810_010.png,NIH,00011810
+00021127_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00021127_005.png,NIH,00021127
+00021127_008.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00021127_008.png,NIH,00021127
+00021127_009.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00021127_009.png,NIH,00021127
+00021127_014.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00021127_014.png,NIH,00021127
+00021127_016.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00021127_016.png,NIH,00021127
+00007191_009.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00007191_009.png,NIH,00007191
+Normal (2353).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2353).jpg,ChestX6,
+Normal (2780).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2780).jpg,ChestX6,
+00001772_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00001772_000.png,NIH,00001772
+Normal (495).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (495).jpg,ChestX6,
+00006502_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00006502_000.png,NIH,00006502
+00017448_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00017448_003.png,NIH,00017448
+00017448_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00017448_006.png,NIH,00017448
+Emphysema_1503.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1503.jpg,ChestX6,
+00013653_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00013653_003.png,NIH,00013653
+00013653_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00013653_004.png,NIH,00013653
+00013653_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00013653_005.png,NIH,00013653
+00016422_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016422_005.png,NIH,00016422
+00016422_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016422_006.png,NIH,00016422
+00016422_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00016422_001.png,NIH,00016422
+Emphysema_2135.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2135.jpg,ChestX6,
+Emphysema_740.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_740.jpg,ChestX6,
+Normal (2837).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2837).jpg,ChestX6,
+Emphysema_1734.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1734.jpg,ChestX6,
+Emphysema_2474.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2474.jpg,ChestX6,
+Normal (2467).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2467).jpg,ChestX6,
+Normal (288).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (288).jpg,ChestX6,
+Normal (691).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (691).jpg,ChestX6,
+00030336_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00030336_000.png,NIH,00030336
+Emphysema_2212.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2212.jpg,ChestX6,
+Emphysema_880.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_880.jpg,ChestX6,
+Normal (1090).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1090).jpg,ChestX6,
+Normal (3048).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3048).jpg,ChestX6,
+Normal (3147).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3147).jpg,ChestX6,
+Normal (791).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (791).jpg,ChestX6,
+Normal (2505).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2505).jpg,ChestX6,
+Emphysema_1766.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1766.jpg,ChestX6,
+Normal (2281).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2281).jpg,ChestX6,
+Emphysema_2123.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2123.jpg,ChestX6,
+00021916_010.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00021916_010.png,NIH,00021916
+Normal (12).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (12).jpg,ChestX6,
+Normal (3087).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3087).jpg,ChestX6,
+00001834_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00001834_000.png,NIH,00001834
+00009600_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00009600_002.png,NIH,00009600
+00009600_012.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00009600_012.png,NIH,00009600
+00016719_008.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016719_008.png,NIH,00016719
+00016719_009.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00016719_009.png,NIH,00016719
+00010481_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010481_002.png,NIH,00010481
+00010481_015.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010481_015.png,NIH,00010481
+00003426_018.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00003426_018.png,NIH,00003426
+00024451_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00024451_000.png,NIH,00024451
+Normal (1298).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1298).jpg,ChestX6,
+Emphysema_1363.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1363.jpg,ChestX6,
+00017401_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00017401_001.png,NIH,00017401
+00017401_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00017401_002.png,NIH,00017401
+Emphysema_1791.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1791.jpg,ChestX6,
+00009574_014.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00009574_014.png,NIH,00009574
+00009574_021.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00009574_021.png,NIH,00009574
+00009574_012.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00009574_012.png,NIH,00009574
+Normal (2794).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2794).jpg,ChestX6,
+Normal (2074).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2074).jpg,ChestX6,
+Emphysema_838.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_838.jpg,ChestX6,
+Emphysema_1270.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1270.jpg,ChestX6,
+Emphysema_198.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_198.jpg,ChestX6,
+Normal (2667).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2667).jpg,ChestX6,
+00011618_010.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00011618_010.png,NIH,00011618
+Normal (1669).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1669).jpg,ChestX6,
+00017635_005.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00017635_005.png,NIH,00017635
+Normal (1820).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1820).jpg,ChestX6,
+00003877_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00003877_002.png,NIH,00003877
+Emphysema_2165.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2165.jpg,ChestX6,
+Emphysema_1400.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1400.jpg,ChestX6,
+Emphysema_272.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_272.jpg,ChestX6,
+Normal (2892).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2892).jpg,ChestX6,
+00002666_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00002666_006.png,NIH,00002666
+Emphysema_1200.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1200.jpg,ChestX6,
+Normal (2729).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2729).jpg,ChestX6,
+Normal (1977).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1977).jpg,ChestX6,
+00021883_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00021883_000.png,NIH,00021883
+Emphysema_1559.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1559.jpg,ChestX6,
+00011065_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011065_002.png,NIH,00011065
+00011065_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011065_005.png,NIH,00011065
+00011065_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00011065_004.png,NIH,00011065
+Emphysema_1606.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1606.jpg,ChestX6,
+00010695_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010695_006.png,NIH,00010695
+00010695_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010695_007.png,NIH,00010695
+00010695_010.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010695_010.png,NIH,00010695
+00010695_011.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010695_011.png,NIH,00010695
+Emphysema_1790.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1790.jpg,ChestX6,
+Normal (2859).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2859).jpg,ChestX6,
+Normal (2150).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2150).jpg,ChestX6,
+Emphysema_546.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_546.jpg,ChestX6,
+Normal (259).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (259).jpg,ChestX6,
+00007072_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00007072_000.png,NIH,00007072
+Normal (553).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (553).jpg,ChestX6,
+Emphysema_1376.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1376.jpg,ChestX6,
+00014551_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00014551_003.png,NIH,00014551
+Emphysema_1743.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1743.jpg,ChestX6,
+Normal (1520).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1520).jpg,ChestX6,
+Normal (2574).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2574).jpg,ChestX6,
+Emphysema_1756.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1756.jpg,ChestX6,
+00020815_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00020815_000.png,NIH,00020815
+Emphysema_445.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_445.jpg,ChestX6,
+Emphysema_804.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_804.jpg,ChestX6,
+00011752_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011752_005.png,NIH,00011752
+00011752_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011752_006.png,NIH,00011752
+00011752_009.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011752_009.png,NIH,00011752
+00011752_016.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011752_016.png,NIH,00011752
+00011752_017.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011752_017.png,NIH,00011752
+00011752_018.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011752_018.png,NIH,00011752
+00011752_019.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011752_019.png,NIH,00011752
+00011752_020.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011752_020.png,NIH,00011752
+00011752_021.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011752_021.png,NIH,00011752
+00011752_022.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011752_022.png,NIH,00011752
+00011752_023.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011752_023.png,NIH,00011752
+00011752_024.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00011752_024.png,NIH,00011752
+Emphysema_676.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_676.jpg,ChestX6,
+Emphysema_428.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_428.jpg,ChestX6,
+Emphysema_298.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_298.jpg,ChestX6,
+Emphysema_731.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_731.jpg,ChestX6,
+Normal (1229).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1229).jpg,ChestX6,
+Normal (582).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (582).jpg,ChestX6,
+Normal (2289).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2289).jpg,ChestX6,
+00006378_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00006378_004.png,NIH,00006378
+00030135_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00030135_000.png,NIH,00030135
+Normal (457).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (457).jpg,ChestX6,
+Emphysema_959.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_959.jpg,ChestX6,
+00005411_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00005411_000.png,NIH,00005411
+Emphysema_1995.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1995.jpg,ChestX6,
+00003693_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00003693_004.png,NIH,00003693
+Normal (427).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (427).jpg,ChestX6,
+00009646_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00009646_000.png,NIH,00009646
+Normal (1734).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1734).jpg,ChestX6,
+Emphysema_1436.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1436.jpg,ChestX6,
+Normal (1013).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1013).jpg,ChestX6,
+Emphysema_1429.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1429.jpg,ChestX6,
+Normal (15).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (15).jpg,ChestX6,
+00023119_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00023119_000.png,NIH,00023119
+Emphysema_1802.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1802.jpg,ChestX6,
+Emphysema_761.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_761.jpg,ChestX6,
+Normal (1939).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1939).jpg,ChestX6,
+Emphysema_1639.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1639.jpg,ChestX6,
+Normal (1073).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1073).jpg,ChestX6,
+Emphysema_1247.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1247.jpg,ChestX6,
+00005716_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00005716_001.png,NIH,00005716
+Emphysema_412.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_412.jpg,ChestX6,
+00017620_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00017620_000.png,NIH,00017620
+Normal (2196).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2196).jpg,ChestX6,
+Normal (1302).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1302).jpg,ChestX6,
+00010384_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010384_005.png,NIH,00010384
+00010384_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010384_007.png,NIH,00010384
+00010384_024.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010384_024.png,NIH,00010384
+00023573_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00023573_000.png,NIH,00023573
+00018114_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00018114_000.png,NIH,00018114
+00006333_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00006333_000.png,NIH,00006333
+00012646_009.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00012646_009.png,NIH,00012646
+00012646_016.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00012646_016.png,NIH,00012646
+Emphysema_2035.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2035.jpg,ChestX6,
+Emphysema_1255.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1255.jpg,ChestX6,
+00022496_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00022496_000.png,NIH,00022496
+Normal (965).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (965).jpg,ChestX6,
+Emphysema_284.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_284.jpg,ChestX6,
+Emphysema_328.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_328.jpg,ChestX6,
+00022837_010.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00022837_010.png,NIH,00022837
+00022837_011.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00022837_011.png,NIH,00022837
+00022837_032.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00022837_032.png,NIH,00022837
+00022837_034.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00022837_034.png,NIH,00022837
+00022837_039.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00022837_039.png,NIH,00022837
+00013615_035.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00013615_035.png,NIH,00013615
+00010033_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010033_001.png,NIH,00010033
+Emphysema_293.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_293.jpg,ChestX6,
+Emphysema_2059.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2059.jpg,ChestX6,
+Emphysema_500.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_500.jpg,ChestX6,
+Emphysema_532.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_532.jpg,ChestX6,
+00011281_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00011281_000.png,NIH,00011281
+00016490_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00016490_001.png,NIH,00016490
+00016490_015.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00016490_015.png,NIH,00016490
+00029396_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00029396_000.png,NIH,00029396
+00008006_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00008006_003.png,NIH,00008006
+Normal (747).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (747).jpg,ChestX6,
+Normal (289).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (289).jpg,ChestX6,
+Emphysema_493.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_493.jpg,ChestX6,
+Emphysema_1359.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1359.jpg,ChestX6,
+00030079_030.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00030079_030.png,NIH,00030079
+Normal (2096).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2096).jpg,ChestX6,
+Emphysema_2053.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2053.jpg,ChestX6,
+Normal (1447).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1447).jpg,ChestX6,
+Normal (1772).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1772).jpg,ChestX6,
+Normal (3019).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3019).jpg,ChestX6,
+Emphysema_1633.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1633.jpg,ChestX6,
+00007133_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00007133_000.png,NIH,00007133
+00007133_001.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00007133_001.png,NIH,00007133
+00007133_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00007133_002.png,NIH,00007133
+00028864_008.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00028864_008.png,NIH,00028864
+Normal (2474).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2474).jpg,ChestX6,
+00030432_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00030432_000.png,NIH,00030432
+00014849_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014849_002.png,NIH,00014849
+00014849_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014849_003.png,NIH,00014849
+00014849_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014849_004.png,NIH,00014849
+00014849_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014849_005.png,NIH,00014849
+00014849_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014849_006.png,NIH,00014849
+00014849_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00014849_007.png,NIH,00014849
+00012864_002.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012864_002.png,NIH,00012864
+00012864_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012864_004.png,NIH,00012864
+Normal (2833).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2833).jpg,ChestX6,
+00018366_018.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00018366_018.png,NIH,00018366
+00018366_025.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00018366_025.png,NIH,00018366
+00018366_027.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00018366_027.png,NIH,00018366
+Emphysema_735.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_735.jpg,ChestX6,
+Emphysema_1524.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1524.jpg,ChestX6,
+00009826_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00009826_004.png,NIH,00009826
+Emphysema_1397.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1397.jpg,ChestX6,
+00002843_007.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00002843_007.png,NIH,00002843
+00002843_008.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00002843_008.png,NIH,00002843
+Emphysema_1462.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1462.jpg,ChestX6,
+00016716_012.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00016716_012.png,NIH,00016716
+Normal (2318).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2318).jpg,ChestX6,
+Emphysema_465.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_465.jpg,ChestX6,
+Normal (2098).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2098).jpg,ChestX6,
+00024954_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00024954_000.png,NIH,00024954
+00017333_002.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00017333_002.png,NIH,00017333
+Normal (3024).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (3024).jpg,ChestX6,
+00010815_009.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010815_009.png,NIH,00010815
+00010815_010.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010815_010.png,NIH,00010815
+00010815_011.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010815_011.png,NIH,00010815
+00010815_014.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010815_014.png,NIH,00010815
+00010815_015.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010815_015.png,NIH,00010815
+Emphysema_646.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_646.jpg,ChestX6,
+Normal (87).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (87).jpg,ChestX6,
+Normal (906).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (906).jpg,ChestX6,
+Emphysema_27.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_27.jpg,ChestX6,
+00027838_012.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027838_012.png,NIH,00027838
+00027838_013.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027838_013.png,NIH,00027838
+00027838_014.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027838_014.png,NIH,00027838
+00027838_015.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027838_015.png,NIH,00027838
+00027838_016.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00027838_016.png,NIH,00027838
+00015212_006.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00015212_006.png,NIH,00015212
+Normal (833).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (833).jpg,ChestX6,
+Emphysema_1852.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1852.jpg,ChestX6,
+Normal (1486).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1486).jpg,ChestX6,
+Normal (2083).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2083).jpg,ChestX6,
+00014918_006.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00014918_006.png,NIH,00014918
+00012476_006.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00012476_006.png,NIH,00012476
+Normal (429).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (429).jpg,ChestX6,
+Normal (1196).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1196).jpg,ChestX6,
+Emphysema_2016.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2016.jpg,ChestX6,
+00019549_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00019549_004.png,NIH,00019549
+00019549_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00019549_005.png,NIH,00019549
+00019549_008.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00019549_008.png,NIH,00019549
+00019549_009.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00019549_009.png,NIH,00019549
+00009218_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00009218_000.png,NIH,00009218
+Emphysema_519.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_519.jpg,ChestX6,
+00007828_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00007828_003.png,NIH,00007828
+00007828_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00007828_004.png,NIH,00007828
+00007828_005.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00007828_005.png,NIH,00007828
+Emphysema_1755.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1755.jpg,ChestX6,
+00009878_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00009878_000.png,NIH,00009878
+Normal (1097).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1097).jpg,ChestX6,
+Normal (1238).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1238).jpg,ChestX6,
+Normal (1463).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (1463).jpg,ChestX6,
+00010942_000.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00010942_000.png,NIH,00010942
+00006538_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00006538_000.png,NIH,00006538
+00006538_001.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00006538_001.png,NIH,00006538
+00010816_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00010816_004.png,NIH,00010816
+Normal (822).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (822).jpg,ChestX6,
+Emphysema_2042.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_2042.jpg,ChestX6,
+00013177_004.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00013177_004.png,NIH,00013177
+00013923_000.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00013923_000.png,NIH,00013923
+00022499_003.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00022499_003.png,NIH,00022499
+Normal (2090).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2090).jpg,ChestX6,
+Emphysema_224.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_224.jpg,ChestX6,
+Normal (2482).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2482).jpg,ChestX6,
+Normal (2044).jpg,Normal,val,Final_Dataset_PatientSafe\val\Normal\Normal (2044).jpg,ChestX6,
+Emphysema_1084.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_1084.jpg,ChestX6,
+Emphysema_158.jpg,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\Emphysema_158.jpg,ChestX6,
+00004049_006.png,Normal,val,Final_Dataset_PatientSafe\val\Normal\00004049_006.png,NIH,00004049
+00012012_011.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00012012_011.png,NIH,00012012
+00019542_003.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00019542_003.png,NIH,00019542
+00019542_004.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00019542_004.png,NIH,00019542
+00019542_005.png,Emphysema,val,Final_Dataset_PatientSafe\val\Emphysema\00019542_005.png,NIH,00019542
