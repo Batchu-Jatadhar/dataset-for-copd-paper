@@ -1,0 +1,56 @@
+"""
+phase_ablation.py
+===================
+Preprocessing Ablation Study
+
+Tests 4 preprocessing strategies to eliminate the acquisition shortcut
+intrinsic to ChestX6, aiming to force the DANN to learn pathology instead
+of scanner/image-processing signatures.
+
+Experiments:
+  1. Histogram Matching (ChestX6 matched to NIH distribution)
+  2. Z-score Standardization (Per-image normalization)
+  3. CLAHE + Histogram Matching
+  4. Frequency Suppression (Blur + Downsample/Upsample)
+
+Metrics per method:
+  - Disease AUC (Real labels)
+  - Domain Accuracy (Real labels)
+  - Random-label AUC (Shuffled labels)
+"""
+
+import sys, os, re, random, time
+import numpy as np
+import pandas as pd
+from PIL import Image
+import cv2
+from skimage import exposure
+import matplotlib; matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+import warnings; warnings.filterwarnings("ignore")
+
+import torch, torch.nn as nn
+from torch.autograd import Function
+from torchvision import models, transforms
+from torch.utils.data import DataLoader, Dataset
+from sklearn.model_selection import GroupShuffleSplit
+from sklearn.metrics import accuracy_score, roc_auc_score
+
+if hasattr(sys.stdout, "reconfigure"): sys.stdout.reconfigure(encoding="utf-8")
+if hasattr(sys.stderr, "reconfigure"): sys.stderr.reconfigure(encoding="utf-8")
+
+# ─────────────────────────────────────────────────────
+#  CONFIG
+# ─────────────────────────────────────────────────────
+BASE_DIR    = r"C:\Users\batch_dcahfiw\Downloads\datasetfinalforcopdemphysema"
+DATASET_DIR = os.path.join(BASE_DIR, "Final_Dataset_PatientSafe")
+PROV_CSV    = os.path.join(BASE_DIR, "provenance_report.csv")
+OUT_DIR     = r"C:\Users\batch_dcahfiw\Downloads\research paper 2\results_final_study\ablation"
+os.makedirs(OUT_DIR, exist_ok=T
+
+# ============================================================
+# TRANSCRIPT LOG TRUNCATED HERE.
+# 14366 bytes of the original source were never recorded
+# and are not recoverable. Everything ABOVE this banner is
+# verbatim; this banner was added during recovery.
+# ============================================================

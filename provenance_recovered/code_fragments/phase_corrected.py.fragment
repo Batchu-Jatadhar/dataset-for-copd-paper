@@ -1,0 +1,54 @@
+"""
+phase_corrected.py
+===================
+Corrected full pipeline after fixing the ChestX6 patient_id bug.
+
+Fixes applied:
+  1. ChestX6 patient_id: regex-based extraction (N_<num> / E_<num>)
+     so each image is its own patient (correct for this dataset).
+  2. Class-stratified patient-level splits: Normal and Emphysema
+     patients split independently then merged → both classes appear
+     in both train and test.
+
+Experiments:
+  A) NIH Baseline      — ResNet-50 trained on NIH, evaluated on NIH test
+  B) ChestX6 External  — NIH-trained model evaluated on corrected CX6 split
+  C) DANN              — Domain adversarial training NIH↔CX6 (corrected splits)
+  D) Random-Label Check — DANN retrained on shuffled labels → expect AUC ≈ 0.5
+
+Outputs → results_final_study/corrected/
+"""
+
+import sys, os, re, random, time
+import numpy as np
+import pandas as pd
+from PIL import Image
+import matplotlib; matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+import seaborn as sns
+import warnings; warnings.filterwarnings("ignore")
+
+import torch, torch.nn as nn
+from torch.autograd import Function
+from torchvision import models, transforms
+from torch.utils.data import DataLoader, Dataset
+from sklearn.model_selection import GroupShuffleSplit
+from sklearn.metrics import (
+    accuracy_score, precision_score, recall_score, f1_score,
+    roc_auc_score, confusion_matrix, roc_curve, precision_recall_curve
+)
+
+if hasattr(sys.stdout, "reconfigure"): sys.stdout.reconfigure(encoding="utf-8")
+if hasattr(sys.stderr, "reconfigure"): sys.stderr.reconfigure(encoding="utf-8")
+
+# ─────────────────────────────────────────────────────
+#  CONFIG
+# ─────────────────────────────────────────────────────
+BASE_DIR    = r"C:\Users\batch_dcahfiw\Downloads\datasetfin
+
+# ============================================================
+# TRANSCRIPT LOG TRUNCATED HERE.
+# 26338 bytes of the original source were never recorded
+# and are not recoverable. Everything ABOVE this banner is
+# verbatim; this banner was added during recovery.
+# ============================================================

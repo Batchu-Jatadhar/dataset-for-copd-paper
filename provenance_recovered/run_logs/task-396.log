@@ -1,0 +1,17 @@
+=================================================================
+  FINAL MULTI-MODEL BASELINE TRAINING (SCIENTIFICALLY VALID)
+=================================================================
+
+[RESNET50] Starting Training...
+  Ep 01 | Train Loss: 0.5473 | Val AUC: 0.8751
+  Ep 02 | Train Loss: 0.4346 | Val AUC: 0.8971
+  Ep 03 | Train Loss: 0.3742 | Val AUC: 0.9066
+  Ep 04 | Train Loss: 0.3397 | Val AUC: 0.9100
+  Ep 05 | Train Loss: 0.3108 | Val AUC: 0.9113
+  Ep 06 | Train Loss: 0.2956 | Val AUC: 0.9082
+  Ep 07 | Train Loss: 0.2351 | Val AUC: 0.9084
+  Ep 08 | Train Loss: 0.2198 | Val AUC: 0.9021
+  Ep 09 | Train Loss: 0.2434 | Val AUC: 0.9043
+  Ep 10 | Train Loss: 0.1852 | Val AUC: 0.9109
+  Final NIH Test AUC: 0.9031
+  Final CX6 Test AUC: 0.9501

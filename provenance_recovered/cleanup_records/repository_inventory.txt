@@ -1,0 +1,44 @@
+# REPOSITORY INVENTORY
+
+## Python Scripts
+* chestx6_forensic_audit.py
+* cross_source_test.py
+* dann_audit.py
+* emphysema_pipeline.py
+* mlpineline.py
+* nih_final_validation_pipeline.py
+* phase1_2_baseline.py
+* phase3_dann.py
+* preprocessing_ablation.py
+* random_label_test.py
+* source_artifact_audit.py
+* source_prediction_test.py
+* standalone_clinical_study.py
+* validation_audit.py
+
+## Datasets
+* dataset.csv (Dataset index)
+* Final_Dataset_PatientSafe/ (Directory containing raw images)
+
+## Result Folders
+* results/
+* results_audit/
+* results_emphysema/
+* results_final_nih/
+* results_final_study/
+* results_forensic/
+* results_standalone/
+
+## Model Checkpoints
+* results_final_nih/seed_100.pth
+* results_final_nih/seed_2024.pth
+* results_final_nih/seed_42.pth
+* results_final_study/dann_best.pth
+* results_final_study/densenet121_best.pth
+* results_final_study/efficientnet_b0_best.pth
+* results_final_study/resnet50_best.pth
+* results_standalone/best_ChestX6.pth
+* results_standalone/best_NIH.pth
+
+## Notebooks
+(None found in root directory)

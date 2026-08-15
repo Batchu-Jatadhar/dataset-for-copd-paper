@@ -1,0 +1,55 @@
+"""
+adversarial_audit.py
+=====================
+Adversarial Validation Audit for DANN Emphysema Detection Model.
+
+Checks:
+  1. Multi-Seed Reproducibility (3 seeds)
+  2. Hold-Out ChestX6 Leakage Verification (train ∩ test overlap)
+  3. Domain Classifier Audit
+  4. Random Label Sanity Check
+  5. Feature Attribution Verification (Grad-CAM)
+  6. Calibration Analysis (ROC, PR, Probability Histograms)
+  7. Final Verdict Report
+"""
+
+import sys, os, random, json, time
+import numpy as np
+import pandas as pd
+from PIL import Image
+import cv2
+import matplotlib; matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+import matplotlib.gridspec as gridspec
+import seaborn as sns
+import warnings; warnings.filterwarnings("ignore")
+
+import torch, torch.nn as nn
+from torch.autograd import Function
+from torchvision import models, transforms
+from torch.utils.data import DataLoader, Dataset
+from sklearn.model_selection import GroupShuffleSplit
+from sklearn.metrics import (
+    accuracy_score, precision_score, recall_score, f1_score,
+    roc_auc_score, confusion_matrix, roc_curve, precision_recall_curve
+)
+
+if hasattr(sys.stdout, "reconfigure"): sys.stdout.reconfigure(encoding="utf-8")
+if hasattr(sys.stderr, "reconfigure"): sys.stderr.reconfigure(encoding="utf-8")
+
+# ──────────────────────────────────────────────────
+#  CONFIG
+# ──────────────────────────────────────────────────
+BASE_DIR    = r"C:\Users\batch_dcahfiw\Downloads\datasetfinalforcopdemphysema"
+DATASET_DIR = os.path.join(BASE_DIR, "Final_Dataset_PatientSafe")
+PROV_CSV    = os.path.join(BASE_DIR, "provenance_report.csv")
+RESULTS_DIR = r"C:\Users\batch_dcahfiw\Downloads\research paper 2\results_final_study"
+AUDIT_DIR   = os.path.join(RESULTS_DIR, "adversarial_audit")
+os.makedirs(AUDIT_DIR, exist_ok
+
+# ============================================================
+# TRANSCRIPT LOG TRUNCATED HERE.
+# 37426 bytes of the original source were never recorded
+# and are not recoverable. Everything ABOVE this banner is
+# verbatim; this banner was added during recovery.
+# ============================================================

@@ -1,0 +1,44 @@
+============================================================
+ SHORTCUT ISOLATION — 2×2 EXPERIMENT
+ Device : cuda
+============================================================
+
+[*] Loading provenance CSV …
+  ChestX6 → Train: 2616 | Test: 3204
+  NIH     → Train: 4022 | Test: 1010
+  ChestX6 Train     : {'Normal': 2616}
+  ChestX6 Test      : {'Emphysema': 2550, 'Normal': 654}
+  NIH Train         : {'Normal': 2018, 'Emphysema': 2004}
+  NIH Test          : {'Emphysema': 512, 'Normal': 498}
+
+───────────────────────────────────────────────────────
+  Experiment : A: ChestX6 — Real Labels
+  Train size : 2616  |  Test size : 3204
+  Labels     : REAL
+───────────────────────────────────────────────────────
+  Train balance: Normal=2616 | Emphysema=0
+  Ep 01  Val AUC: nan
+  Ep 02  Val AUC: nan
+  Ep 03  Val AUC: nan
+  Ep 04  Val AUC: nan
+  Early stop at epoch 4
+python : Traceback (most recent call last):
+At line:1 char:1
++ python shortcut_isolator.py 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\batch_dcahfiw\Downloads\research paper 2\Emphysema_Detection\shortcut_isolator.py", line 273, in 
+<module>
+    results.append(run_experiment(
+                   ~~~~~~~~~~~~~~^
+        "A: ChestX6 — Real Labels",
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+        tr_cx6, te_cx6, shuffle_train=False))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\batch_dcahfiw\Downloads\research paper 2\Emphysema_Detection\shortcut_isolator.py", line 199, in 
+run_experiment
+    model.load_state_dict({k: v.to(DEVICE) for k, v in best_state.items()})
+                                                       ^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'items'

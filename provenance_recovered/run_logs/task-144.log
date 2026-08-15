@@ -1,0 +1,50 @@
+=================================================================
+  DANN VALIDATION — LUNG MASKING & RANDOM LABELS
+  Device : cuda
+=================================================================
+[*] Saved mask_samples.png to verify masking logic.
+
+-----------------------------------------------------------------
+  Starting EXP A: Strong DANN (Lung-Masked, Real Labels)
+-----------------------------------------------------------------
+  Ep 01 | α=0.460 | Dis AUC: 0.9887 | Dom Acc: 0.4433 ← best
+  Ep 02 | α=0.761 | Dis AUC: 0.9957 | Dom Acc: 0.0000 ← best
+  Ep 03 | α=0.905 | Dis AUC: 0.9979 | Dom Acc: 0.2225 ← best
+  Ep 04 | α=0.964 | Dis AUC: 0.9952 | Dom Acc: 0.2835
+  Ep 05 | α=0.987 | Dis AUC: 0.9978 | Dom Acc: 0.7457
+  Ep 06 | α=0.995 | Dis AUC: 0.9804 | Dom Acc: 0.2474
+  Ep 07 | α=0.998 | Dis AUC: 0.9982 | Dom Acc: 0.5670 ← best
+  Ep 08 | α=0.999 | Dis AUC: 0.9982 | Dom Acc: 0.9287 ← best
+  Ep 09 | α=1.000 | Dis AUC: 0.9965 | Dom Acc: 0.2844
+  Ep 10 | α=1.000 | Dis AUC: 0.9982 | Dom Acc: 0.1658
+
+  EXP A: Strong DANN (Lung-Masked, Real Labels) RESULT → Dis AUC=0.9982 | Dom Acc=0.9287
+
+-----------------------------------------------------------------
+  Starting EXP B: Strong DANN (Lung-Masked, Random Labels)
+-----------------------------------------------------------------
+  Ep 01 | α=0.460 | Dis AUC: 0.5666 | Dom Acc: 0.6641 ← best
+  Ep 02 | α=0.761 | Dis AUC: 0.4398 | Dom Acc: 0.0000
+  Ep 03 | α=0.905 | Dis AUC: 0.4118 | Dom Acc: 0.0009
+  Ep 04 | α=0.964 | Dis AUC: 0.4416 | Dom Acc: 0.0000
+  Ep 05 | α=0.987 | Dis AUC: 0.7074 | Dom Acc: 0.0679 ← best
+  Ep 06 | α=0.995 | Dis AUC: 0.5614 | Dom Acc: 0.0043
+  Ep 07 | α=0.998 | Dis AUC: 0.5257 | Dom Acc: 0.4330
+  Ep 08 | α=0.999 | Dis AUC: 0.4236 | Dom Acc: 0.0215
+  Ep 09 | α=1.000 | Dis AUC: 0.4389 | Dom Acc: 0.0997
+  Ep 10 | α=1.000 | Dis AUC: 0.5791 | Dom Acc: 0.8488
+
+  EXP B: Strong DANN (Lung-Masked, Random Labels) RESULT → Dis AUC=0.7074 | Dom Acc=0.0679
+
+=================================================================
+  VALIDATION RESULTS SUMMARY
+=================================================================
+  Real Labels   : Disease AUC = 0.9982  |  Domain Acc = 0.9287
+  Random Labels : Disease AUC = 0.7074  |  Domain Acc = 0.0679
+
+  ✗ FAIL: Random label AUC is still high. The shortcut remains even after lung masking.
+  ✗ FAIL: Domain Accuracy did not collapse. GRL was not strong enough or domain signal is too obvious.
+
+  Time taken: 2203s
+
+[DONE]

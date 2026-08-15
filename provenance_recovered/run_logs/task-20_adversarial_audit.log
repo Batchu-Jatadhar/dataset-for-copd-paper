@@ -1,0 +1,119 @@
+============================================================
+ DANN ADVERSARIAL VALIDATION AUDIT
+ Device: cuda
+============================================================
+
+[*] Loading provenance CSV …
+  NIH  — Train: 4022 | Test: 1010
+  CX6  — Train: 2616 | Test: 3204
+
+============================================================
+ CHECK 1 — Multi-Seed Reproducibility
+============================================================
+  [Seed 42] Training DANN …
+  [Seed 42] Acc=0.8652 | Prec=1.0000 | Rec=0.8306 | F1=0.9075 | AUC=0.9999 | (653s)
+  [Seed 123] Training DANN …
+  [Seed 123] Acc=0.9229 | Prec=1.0000 | Rec=0.9031 | F1=0.9491 | AUC=0.9999 | (660s)
+  [Seed 2024] Training DANN …
+  [Seed 2024] Acc=0.8895 | Prec=1.0000 | Rec=0.8612 | F1=0.9254 | AUC=1.0000 | (459s)
+
+  ── Reproducibility Summary (Mean ± Std) ──
+  Accuracy  : 0.8925 ± 0.0290
+  Precision : 1.0000 ± 0.0000
+  Recall    : 0.8650 ± 0.0364
+  F1        : 0.9273 ± 0.0209
+  AUC       : 0.9999 ± 0.0000
+
+============================================================
+ CHECK 2 — Hold-Out ChestX6 Leakage Verification
+============================================================
+  Train patients (NIH + CX6 train): 5144
+  Test patients  (CX6 test only)  : 655
+  Train ∩ Test overlap             : 0
+  File-level overlap (train ∩ test): 0
+
+  Verdict: PASS
+
+============================================================
+ CHECK 3 — Domain Classifier Audit
+============================================================
+  [Seed 42] Retraining DANN for domain audit …
+  NIH  Test Set: Domain Acc = 1.0000 | %NIH=100.0% | %CX6=0.0%
+  CX6  Test Set: Domain Acc = 0.3727 | %NIH=62.7% | %CX6=37.3%
+  Verdict: WARN (domain not fully confused)
+
+============================================================
+ CHECK 4 — Random Label Sanity Check
+============================================================
+  Training DANN with SHUFFLED emphysema labels …
+  Shuffled Label Accuracy : 0.6217
+  Shuffled Label ROC-AUC  : 0.5064
+  Expected               : ≈ 0.50 for both
+  Verdict: PASS (random chance)
+
+  Also training from scratch with SHUFFLED TRAINING labels …
+  Random-Trained Test Accuracy: 0.4432
+  Random-Trained Test ROC-AUC : 0.9970
+  Expected                    : ≈ 0.50
+  Verdict: FAIL — Shortcut features detected
+
+============================================================
+ CHECK 5 — Feature Attribution Verification (Grad-CAM)
+============================================================
+  WARNING: Phase-1 weights not found — using random init (for script completeness).
+  Grad-CAM saved → check5_gradcam.png
+  Manual inspection required: verify attention is inside lung fields.
+
+============================================================
+ CHECK 6 — Calibration Analysis
+============================================================
+  Predictions < 0.05 : 22.5%
+  Predictions > 0.95 : 11.9%
+  Verdict: PASS — Calibrated distribution
+  Calibration plot saved → check6_calibration.png
+
+============================================================
+ CHECK 7 — Final Verdict
+============================================================
+
+  ─── Summary of All Checks ───
+  CHECK 1  Multi-Seed    : PASS  (Mean AUC=0.9999 ± 0.0000)
+  CHECK 2  Leakage       : PASS
+  CHECK 3  Domain Audit  : WARN (domain not fully confused)
+  CHECK 4  Random Label  : FAIL — Shortcut features detected
+  CHECK 5  Grad-CAM      : Manual review required
+  CHECK 6  Calibration   : PASS — Calibrated distribution
+
+  🚨 CRITICAL FLAGS:
+    ⚠ CHECK 4 FAIL: Random-label model achieved AUC=0.9970 — shortcut features likely present!
+
+  FINAL VERDICT:
+  NOT FULLY DEFENSIBLE — Critical issues were detected. The 0.9999 AUC cannot be claimed as a pure disease-classification result without addressing the flagged issues. Review shortcut features, leakage, or domain collapse.
+python : Traceback (most recent call last):
+At line:1 char:1
++ python adversarial_audit.py 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (Traceback (most recent call last)::String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  File "C:\Users\batch_dcahfiw\Downloads\research paper 2\Emphysema_Detection\adversarial_audit.py", line 838, in 
+<module>
+    json.dump(AUDIT_LOG, f, indent=2)
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\batch_dcahfiw\AppData\Local\Programs\Python\Python313\Lib\json\__init__.py", line 179, in dump
+    for chunk in iterable:
+                 ^^^^^^^^
+  File "C:\Users\batch_dcahfiw\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 433, in _iterencode
+    yield from _iterencode_dict(o, _current_indent_level)
+  File "C:\Users\batch_dcahfiw\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 407, in 
+_iterencode_dict
+    yield from chunks
+  File "C:\Users\batch_dcahfiw\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 407, in 
+_iterencode_dict
+    yield from chunks
+  File "C:\Users\batch_dcahfiw\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 440, in _iterencode
+    o = _default(o)
+  File "C:\Users\batch_dcahfiw\AppData\Local\Programs\Python\Python313\Lib\json\encoder.py", line 180, in default
+    raise TypeError(f'Object of type {o.__class__.__name__} '
+                    f'is not JSON serializable')
+TypeError: Object of type bool is not JSON serializable
