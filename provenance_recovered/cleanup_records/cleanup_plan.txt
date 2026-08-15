@@ -1,0 +1,46 @@
+# CLEANUP PLAN
+
+## DELETE:
+(Old audit scripts superseded by final Phase versions, temporary debug scripts, duplicate/intermediate result folders, and caches)
+* __pycache__/ (Directory)
+* chestx6_forensic_audit.py
+* cross_source_test.py
+* dann_audit.py (Superseded, logic merged/fixed in phase3_dann.py)
+* emphysema_pipeline.py (Old iteration)
+* mlpineline.py (Old iteration)
+* nih_final_validation_pipeline.py (Superseded by phase1_2_baseline.py)
+* preprocessing_ablation.py
+* random_label_test.py
+* source_artifact_audit.py
+* source_prediction_test.py
+* standalone_clinical_study.py
+* validation_audit.py
+* results_audit/ (Directory)
+* results_emphysema/ (Directory)
+* results_final_nih/ (Directory)
+* results_forensic/ (Directory)
+* results_standalone/ (Directory)
+* ablation_source_metrics.csv
+* dataset.csv (Superseded by provenance_report.csv located elsewhere)
+
+## KEEP:
+(Final pipeline scripts, final study outputs, and datasets)
+* phase1_2_baseline.py
+* phase3_dann.py
+* README.md
+* results_final_study/ (Will be moved to results/)
+  * benchmark_models.csv
+  * external_validation.csv
+  * dann_validation.csv
+  * resnet50_best.pth
+  * densenet121_best.pth
+  * efficientnet_b0_best.pth
+  * dann_best.pth
+  * all_cm.png
+  * roc_pr_curves.png
+  * training_curves.png
+  * resnet50_gradcam.png
+  * dann_domain_cm.png
+  * audit_disease_cm.png
+  * audit_domain_cm.png
+* Final_Dataset_PatientSafe/ (Directory)

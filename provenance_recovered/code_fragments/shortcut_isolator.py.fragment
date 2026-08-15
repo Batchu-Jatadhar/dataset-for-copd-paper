@@ -1,0 +1,54 @@
+"""
+shortcut_isolator.py  (v2 — class-stratified splits + root-cause analysis)
+===========================================================================
+2 × 2 Shortcut Isolation Experiment.
+
+Key fix from v1: ChestX6's GroupShuffleSplit on raw patient_id produced a
+fully class-separated split (Train=ALL Normal, Test=ALL Emphysema).
+This script:
+  1. Reports the class structure BEFORE and AFTER each split strategy.
+  2. Uses CLASS-STRATIFIED patient splits (split Normal patients and
+     Emphysema patients independently, then combine) to ensure both
+     classes are present in both train and test.
+  3. Runs all 4 experiments with the corrected splits.
+
+Experiments (on corrected splits):
+  A) ChestX6 — Real labels
+  B) ChestX6 — Random labels
+  C) NIH     — Real labels
+  D) NIH     — Random labels
+"""
+
+import sys, os, random, time
+import numpy as np
+import pandas as pd
+from PIL import Image
+import matplotlib; matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+import warnings; warnings.filterwarnings("ignore")
+
+import torch, torch.nn as nn
+from torchvision import models, transforms
+from torch.utils.data import DataLoader, Dataset
+from sklearn.model_selection import GroupShuffleSplit, train_test_split
+from sklearn.metrics import (
+    roc_auc_score, accuracy_score, precision_score,
+    recall_score, f1_score, roc_curve
+)
+
+if hasattr(sys.stdout, "reconfigure"): sys.stdout.reconfigure(encoding="utf-8")
+if hasattr(sys.stderr, "reconfigure"): sys.stderr.reconfigure(encoding="utf-8")
+
+# ──────────────────────────────────────────────
+#  CONFIG
+# ──────────────────────────────────────────────
+BASE_DIR    = r"C:\Users\batch_dcahfiw\Downloads\datasetfinalforcopdemphysema"
+DATASET_DIR = os.path.join(BASE_DIR, "Final_Dataset_PatientSafe")
+PROV_CSV    = os.path.
+
+# ============================================================
+# TRANSCRIPT LOG TRUNCATED HERE.
+# 23059 bytes of the original source were never recorded
+# and are not recoverable. Everything ABOVE this banner is
+# verbatim; this banner was added during recovery.
+# ============================================================

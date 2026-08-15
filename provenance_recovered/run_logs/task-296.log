@@ -1,0 +1,15 @@
+=================================================================
+  FINAL NIH BASELINE TRAINING (SCIENTIFICALLY VALID)
+=================================================================
+Epoch 01 | Train Loss: 0.5581 | Val AUC: 0.8591
+Epoch 02 | Train Loss: 0.4383 | Val AUC: 0.9004
+Epoch 03 | Train Loss: 0.3832 | Val AUC: 0.8976
+Epoch 04 | Train Loss: 0.3524 | Val AUC: 0.9229
+Epoch 05 | Train Loss: 0.3180 | Val AUC: 0.9107
+Epoch 06 | Train Loss: 0.3049 | Val AUC: 0.9204
+Epoch 07 | Train Loss: 0.2600 | Val AUC: 0.9047
+Epoch 08 | Train Loss: 0.2333 | Val AUC: 0.9020
+Epoch 09 | Train Loss: 0.2433 | Val AUC: 0.9011
+Epoch 10 | Train Loss: 0.1865 | Val AUC: 0.8990
+
+=================================================================

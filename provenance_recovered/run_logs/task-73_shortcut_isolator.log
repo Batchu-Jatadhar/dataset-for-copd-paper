@@ -1,0 +1,168 @@
+=================================================================
+ SHORTCUT ISOLATION — 2×2 EXPERIMENT  (v2 — stratified splits)
+ Device : cuda
+=================================================================
+
+[*] Loading provenance CSV …
+
+=================================================================
+ ROOT-CAUSE ANALYSIS — CHESTX6 PATIENT ID STRUCTURE
+=================================================================
+
+  ChestX6 TOTAL        : 5820 images
+  Normal images        : 3270  |  Unique patient_ids: 3270
+  Emphysema images     : 2550  |  Unique patient_ids: 1
+  Patient IDs shared between Normal & Emphysema: 0
+
+  Sample Normal    filenames: ['Normal (10).jpg', 'Normal (1000).jpg', 'Normal (1001).jpg', 'Normal (1003).jpg', 'Normal (1005).jpg']
+  Sample Emphysema filenames: ['Emphysema_100.jpg', 'Emphysema_1001.jpg', 'Emphysema_1006.jpg', 'Emphysema_1007.jpg', 'Emphysema_1008.jpg']
+
+  Sample Normal    patient_ids: ['Normal (10).jpg', 'Normal (1000).jpg', 'Normal (1001).jpg', 'Normal (1003).jpg', 'Normal (1005).jpg', 'Normal (1008).jpg', 'Normal (1009).jpg', 'Normal (101).jpg']
+  Sample Emphysema patient_ids: ['Emphysema']
+
+  ⚠ FINDING: Normal and Emphysema images in ChestX6 share ZERO patient IDs.
+     GroupShuffleSplit on patient_id will ALWAYS class-separate the splits.
+     This means the 0.9999 AUC may be trivially caused by the train/test
+     split yielding a test set that is almost entirely Emphysema,
+     trained on a set that is almost entirely Normal.
+     The model may just be learning 'Normal = train-domain, Emphysema = test-domain'.
+
+  ── NAIVE SPLIT (original GroupShuffleSplit — BROKEN) ──
+  Naive Train: Normal=2616 | Emphysema=0 | total=2616
+  Naive Test : Normal=654 | Emphysema=2550 | total=3204
+
+  ── STRATIFIED SPLIT (fixed — used in experiments below) ──
+  Strat Train: Normal=2616 | Emphysema=2550 | total=5166
+  Strat Test : Normal=654 | Emphysema=0 | total=654
+
+  NIH Train  : Normal=1997 | Emphysema=2035 | total=4032
+  NIH Test   : Normal=519 | Emphysema=481 | total=1000
+
+  CX6 Train∩Test patient overlap : 0
+  NIH Train∩Test patient overlap : 49
+
+=================================================================
+ RUNNING 4 EXPERIMENTS ON STRATIFIED SPLITS
+=================================================================
+
+────────────────────────────────────────────────────────────
+  Experiment : A: ChestX6 — Real Labels
+  Labels     : REAL
+  Train      : Normal=2616 | Emphysema=2550 | total=5166
+  Test       : Normal=654 | Emphysema=0 | total=654
+────────────────────────────────────────────────────────────
+  Ep 01  Val AUC: 1.0000  ← best
+  Ep 02  Val AUC: 1.0000
+  Ep 03  Val AUC: 1.0000
+  Ep 04  Val AUC: 1.0000
+  Ep 05  Val AUC: 0.9995
+  Early stop at epoch 5
+
+  TEST → Acc=1.0000 | Prec=0.0000 | Rec=0.0000 | F1=0.0000 | AUC=nan  (134s)
+
+────────────────────────────────────────────────────────────
+  Experiment : B: ChestX6 — Random Labels
+  Labels     : RANDOM (shuffled)
+  Train      : Normal=2616 | Emphysema=2550 | total=5166
+  Test       : Normal=654 | Emphysema=0 | total=654
+────────────────────────────────────────────────────────────
+  Ep 01  Val AUC: 0.4888  ← best
+  Ep 02  Val AUC: 0.6940  ← best
+  Ep 03  Val AUC: 0.0659
+  Ep 04  Val AUC: 0.0282
+  Ep 05  Val AUC: 0.6914
+  Ep 06  Val AUC: 0.7458  ← best
+  Ep 07  Val AUC: 0.3034
+  Ep 08  Val AUC: 0.9742  ← best
+  Ep 09  Val AUC: 0.8012
+  Ep 10  Val AUC: 0.8550
+  Ep 11  Val AUC: 0.3918
+  Ep 12  Val AUC: 0.8727
+  Early stop at epoch 12
+
+  TEST → Acc=0.9618 | Prec=0.0000 | Rec=0.0000 | F1=0.0000 | AUC=nan  (318s)
+
+────────────────────────────────────────────────────────────
+  Experiment : C: NIH — Real Labels
+  Labels     : REAL
+  Train      : Normal=1997 | Emphysema=2035 | total=4032
+  Test       : Normal=519 | Emphysema=481 | total=1000
+────────────────────────────────────────────────────────────
+  Ep 01  Val AUC: 0.8388  ← best
+  Ep 02  Val AUC: 0.8870  ← best
+  Ep 03  Val AUC: 0.8919  ← best
+  Ep 04  Val AUC: 0.9010  ← best
+  Ep 05  Val AUC: 0.9108  ← best
+  Ep 06  Val AUC: 0.8838
+  Ep 07  Val AUC: 0.9055
+  Ep 08  Val AUC: 0.9045
+  Ep 09  Val AUC: 0.8967
+  Early stop at epoch 9
+
+  TEST → Acc=0.8280 | Prec=0.8294 | Rec=0.8087 | F1=0.8189 | AUC=0.9088  (493s)
+
+────────────────────────────────────────────────────────────
+  Experiment : D: NIH — Random Labels
+  Labels     : RANDOM (shuffled)
+  Train      : Normal=1997 | Emphysema=2035 | total=4032
+  Test       : Normal=519 | Emphysema=481 | total=1000
+────────────────────────────────────────────────────────────
+  Ep 01  Val AUC: 0.5158  ← best
+  Ep 02  Val AUC: 0.5097
+  Ep 03  Val AUC: 0.6019  ← best
+  Ep 04  Val AUC: 0.4438
+  Ep 05  Val AUC: 0.6310  ← best
+  Ep 06  Val AUC: 0.3772
+  Ep 07  Val AUC: 0.4730
+  Ep 08  Val AUC: 0.4163
+  Ep 09  Val AUC: 0.5791
+  Early stop at epoch 9
+
+  TEST → Acc=0.5690 | Prec=0.5354 | Rec=0.7859 | F1=0.6369 | AUC=0.6227  (527s)
+
+=================================================================
+ RESULTS SUMMARY
+=================================================================
+                       Exp Labels  Train N  Test N  Accuracy  Precision  Recall     F1  ROC-AUC
+  A: ChestX6 — Real Labels   REAL     5166     654    1.0000     0.0000  0.0000 0.0000      NaN
+B: ChestX6 — Random Labels RANDOM     5166     654    0.9618     0.0000  0.0000 0.0000      NaN
+      C: NIH — Real Labels   REAL     4032    1000    0.8280     0.8294  0.8087 0.8189   0.9088
+    D: NIH — Random Labels RANDOM     4032    1000    0.5690     0.5354  0.7859 0.6369   0.6227
+
+  ROC plot → shortcut_roc_curves.png
+
+=================================================================
+ SHORTCUT DIAGNOSIS
+=================================================================
+
+  ChestX6 Real   AUC : nan
+  ChestX6 Random AUC : nan  ← near chance (OK)
+  ChestX6 Gap (A-B)  : +nan
+
+  NIH Real   AUC     : 0.9088
+  NIH Random AUC     : 0.6227  ← near chance (OK)
+  NIH Gap (C-D)      : +0.2862
+
+  ── CONCLUSION ──
+
+  [STRUCTURAL FINDING]
+  ChestX6 Normal patient_ids overlap with Emphysema patient_ids: 0
+  → Normal and Emphysema subsets in ChestX6 are from COMPLETELY
+    SEPARATE patient pools. The naive GroupShuffleSplit placed
+    ALL Normal in train and ALL Emphysema in test.
+    This structural separation IS itself the primary shortcut.
+    Even with real labels, any model that memorizes 'which patient
+    pool I'm from' will achieve near-perfect AUC on this split.
+
+  NO SINGLE-DATASET SHORTCUT DETECTED (on stratified splits).
+  Both random models failed → Neither dataset alone has a
+  shortcut. However, the structural ChestX6 patient-pool
+  separation (zero overlap between Normal and Emphysema
+  patient IDs) remains a critical confound regardless of AUC.
+  The shortcut appears only when datasets are combined in DANN
+  — the model learns 'dataset identity' which correlates with
+  disease label distribution.
+
+  All outputs → C:\Users\batch_dcahfiw\Downloads\research paper 2\results_final_study\shortcut_isolation
+
+[DONE]

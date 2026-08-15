@@ -1,0 +1,114 @@
+=================================================================
+  CORRECTED PIPELINE — Fixed ChestX6 Patient-ID & Splits
+  Device : cuda
+=================================================================
+
+[*] Loading and preparing data …
+
+=================================================================
+  SPLIT VERIFICATION
+=================================================================
+
+  NIH Splits:
+    Train : Normal=1767 | Emphysema=1808  | n=3575
+    Val   : Normal=382 | Emphysema=365  | n=747
+    Test  : Normal=367 | Emphysema=343  | n=710
+    Train∩Val overlap  : 0
+    Train∩Test overlap : 0
+    Val∩Test overlap   : 0
+
+  ChestX6 Splits (CORRECTED):
+    Train : Normal=2616 | Emphysema=2040  | n=4656
+    Test  : Normal=654 | Emphysema=510  | n=1164
+    Train∩Test overlap : 0
+
+  ✓ All assertions passed — both classes in train and test, zero overlap.
+
+=================================================================
+  EXPERIMENT A — NIH Baseline ResNet-50
+=================================================================
+  Ep 01  Val AUC: 0.8793  ← best
+  Ep 02  Val AUC: 0.8879  ← best
+  Ep 03  Val AUC: 0.9130  ← best
+  Ep 04  Val AUC: 0.9054
+  Ep 05  Val AUC: 0.9110
+  Ep 06  Val AUC: 0.9017
+  Ep 07  Val AUC: 0.9041
+  Ep 08  Val AUC: 0.9135  ← best
+  Ep 09  Val AUC: 0.8997
+  Ep 10  Val AUC: 0.8962
+  Ep 11  Val AUC: 0.9114
+  Ep 12  Val AUC: 0.9273  ← best
+  Ep 13  Val AUC: 0.9005
+  Ep 14  Val AUC: 0.9195
+  Ep 15  Val AUC: 0.9150
+  Ep 16  Val AUC: 0.9185
+  Ep 17  Val AUC: 0.9125
+  Early stop at 17
+
+  NIH Test → Acc=0.8239 | Prec=0.7914 | Rec=0.8630 | F1=0.8257 | AUC=0.9090  (1101s)
+
+=================================================================
+  EXPERIMENT B — ChestX6 External Validation (NIH model)
+=================================================================
+
+  CX6 Ext  → Acc=0.6194 | Prec=0.5370 | Rec=0.9529 | F1=0.6869 | AUC=0.8535
+  Test balance: Normal=654 | Emphysema=510  |  n=1164
+
+=================================================================
+  EXPERIMENT C — DANN (corrected ChestX6 splits)
+=================================================================
+  [DANN] Ep 01  Val AUC: 1.0000  ← best
+  [DANN] Ep 02  Val AUC: 1.0000
+  [DANN] Ep 03  Val AUC: 1.0000
+  [DANN] Ep 04  Val AUC: 1.0000
+  [DANN] Ep 05  Val AUC: 1.0000
+  [DANN] Ep 06  Val AUC: 0.9999
+  [DANN] Ep 07  Val AUC: 1.0000
+  [DANN] Ep 08  Val AUC: 1.0000
+  [DANN] Ep 09  Val AUC: 1.0000
+  [DANN] Ep 10  Val AUC: 1.0000
+
+  DANN CX6  → Acc=0.9991 | Prec=1.0000 | Rec=0.9980 | F1=0.9990 | AUC=1.0000
+  Domain Acc (should be ≈0.50): 0.9983  (509s)
+
+=================================================================
+  EXPERIMENT D — Random Label Sanity Check (DANN, corrected splits)
+=================================================================
+  Training DANN with SHUFFLED disease labels …
+  [RAND] Ep 01  Val AUC: 0.8554  ← best
+  [RAND] Ep 02  Val AUC: 0.5029
+  [RAND] Ep 03  Val AUC: 0.7888
+  [RAND] Ep 04  Val AUC: 0.8722  ← best
+  [RAND] Ep 05  Val AUC: 0.8186
+  [RAND] Ep 06  Val AUC: 0.5226
+  [RAND] Ep 07  Val AUC: 0.6718
+  [RAND] Ep 08  Val AUC: 0.3542
+  [RAND] Ep 09  Val AUC: 0.6190
+  [RAND] Ep 10  Val AUC: 0.5098
+
+  Random CX6→ Acc=0.8316 | Prec=0.8867 | Rec=0.7059 | F1=0.7860 | AUC=0.8722
+  Expected   : AUC ≈ 0.50  (FAIL — shortcut)
+  (499s)
+
+=================================================================
+  FINAL RESULTS — CORRECTED PIPELINE
+=================================================================
+                      Experiment         Dataset_Eval  Accuracy  Precision  Recall     F1  ROC-AUC            Notes
+     A: NIH Baseline (ResNet-50)             NIH Test    0.8239     0.7914  0.8630 0.8257   0.9090         Internal
+B: External Validation (NIH→CX6) CX6 Test (corrected)    0.6194     0.5370  0.9529 0.6869   0.8535  No domain adapt
+    C: DANN (NIH+CX6, corrected) CX6 Test (corrected)    0.9991     1.0000  0.9980 0.9990   1.0000 DomainAcc=0.9983
+   D: Random-Label Sanity (DANN) CX6 Test (corrected)    0.8316     0.8867  0.7059 0.7860   0.8722  Shuffled labels
+
+=================================================================
+  SANITY CHECK SUMMARY
+=================================================================
+
+  Random-label AUC (0.8722) < 0.65 : ✗ FAIL — shortcut remains
+  DANN CX6 AUC    (1.0000) > 0.80 : ✓ Real signal
+
+  Verdict: Shortcut still present after split fix. Deeper investigation needed (lung segmentation, demographic audit).
+
+  All outputs → C:\Users\batch_dcahfiw\Downloads\research paper 2\results_final_study\corrected
+
+[DONE]

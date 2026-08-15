@@ -1,0 +1,104 @@
+=================================================================
+  PREPROCESSING ABLATION STUDY
+  Device : cuda
+  Workers: 8
+=================================================================
+
+=======================================================
+  METHOD: histogram_matching
+=======================================================
+  [Real Labels] Training …
+    Ep 01 | Dis AUC: 1.0000 | Dom Acc: 0.0009 ← best
+    Ep 02 | Dis AUC: 1.0000 | Dom Acc: 1.0000
+    Ep 03 | Dis AUC: 1.0000 | Dom Acc: 0.7036
+    Ep 04 | Dis AUC: 1.0000 | Dom Acc: 0.9983
+    Ep 05 | Dis AUC: 1.0000 | Dom Acc: 0.9519
+    Ep 06 | Dis AUC: 1.0000 | Dom Acc: 0.9201
+
+  [Random Labels] Training …
+    Ep 01 | Dis AUC: 0.9571 | Dom Acc: 0.0000 ← best
+    Ep 02 | Dis AUC: 0.5509 | Dom Acc: 0.0000
+    Ep 03 | Dis AUC: 0.6591 | Dom Acc: 0.0017
+    Ep 04 | Dis AUC: 0.7940 | Dom Acc: 0.0258
+    Ep 05 | Dis AUC: 0.4204 | Dom Acc: 0.2955
+    Ep 06 | Dis AUC: 0.4121 | Dom Acc: 0.9948
+
+  → RESULT: Disease AUC = 1.0000 | Domain Acc = 0.0009 | Random AUC = 0.9571
+
+=======================================================
+  METHOD: z_score
+=======================================================
+  [Real Labels] Training …
+    Ep 01 | Dis AUC: 1.0000 | Dom Acc: 0.9914 ← best
+    Ep 02 | Dis AUC: 1.0000 | Dom Acc: 0.0000 ← best
+    Ep 03 | Dis AUC: 1.0000 | Dom Acc: 1.0000
+    Ep 04 | Dis AUC: 0.9999 | Dom Acc: 0.0309
+    Ep 05 | Dis AUC: 1.0000 | Dom Acc: 0.9330
+    Ep 06 | Dis AUC: 1.0000 | Dom Acc: 1.0000
+
+  [Random Labels] Training …
+    Ep 01 | Dis AUC: 0.9912 | Dom Acc: 0.0000 ← best
+    Ep 02 | Dis AUC: 0.4480 | Dom Acc: 0.0060
+    Ep 03 | Dis AUC: 0.7192 | Dom Acc: 0.8505
+    Ep 04 | Dis AUC: 0.9227 | Dom Acc: 0.0000
+    Ep 05 | Dis AUC: 0.9623 | Dom Acc: 0.0137
+    Ep 06 | Dis AUC: 0.8819 | Dom Acc: 0.0000
+
+  → RESULT: Disease AUC = 1.0000 | Domain Acc = 0.0000 | Random AUC = 0.9912
+
+=======================================================
+  METHOD: clahe_hist
+=======================================================
+  [Real Labels] Training …
+    Ep 01 | Dis AUC: 1.0000 | Dom Acc: 0.0000 ← best
+    Ep 02 | Dis AUC: 1.0000 | Dom Acc: 0.0000
+    Ep 03 | Dis AUC: 1.0000 | Dom Acc: 0.0902
+    Ep 04 | Dis AUC: 1.0000 | Dom Acc: 1.0000 ← best
+    Ep 05 | Dis AUC: 1.0000 | Dom Acc: 1.0000
+    Ep 06 | Dis AUC: 1.0000 | Dom Acc: 0.0000
+
+  [Random Labels] Training …
+    Ep 01 | Dis AUC: 0.6021 | Dom Acc: 0.0524 ← best
+    Ep 02 | Dis AUC: 0.3320 | Dom Acc: 0.0000
+    Ep 03 | Dis AUC: 0.6271 | Dom Acc: 0.8170 ← best
+    Ep 04 | Dis AUC: 0.4437 | Dom Acc: 0.9871
+    Ep 05 | Dis AUC: 0.7816 | Dom Acc: 0.0026 ← best
+    Ep 06 | Dis AUC: 0.8193 | Dom Acc: 0.0000 ← best
+
+  → RESULT: Disease AUC = 1.0000 | Domain Acc = 1.0000 | Random AUC = 0.8193
+
+=======================================================
+  METHOD: frequency_suppress
+=======================================================
+  [Real Labels] Training …
+    Ep 01 | Dis AUC: 1.0000 | Dom Acc: 0.0000 ← best
+    Ep 02 | Dis AUC: 1.0000 | Dom Acc: 0.0043 ← best
+    Ep 03 | Dis AUC: 1.0000 | Dom Acc: 0.0309
+    Ep 04 | Dis AUC: 0.9999 | Dom Acc: 0.0172
+    Ep 05 | Dis AUC: 1.0000 | Dom Acc: 0.0859
+    Ep 06 | Dis AUC: 1.0000 | Dom Acc: 0.0112
+
+  [Random Labels] Training …
+    Ep 01 | Dis AUC: 0.6889 | Dom Acc: 0.3960 ← best
+    Ep 02 | Dis AUC: 0.4679 | Dom Acc: 0.0232
+    Ep 03 | Dis AUC: 0.9782 | Dom Acc: 0.0000 ← best
+    Ep 04 | Dis AUC: 0.8657 | Dom Acc: 0.0430
+    Ep 05 | Dis AUC: 0.7165 | Dom Acc: 0.0069
+    Ep 06 | Dis AUC: 0.3418 | Dom Acc: 0.2878
+
+  → RESULT: Disease AUC = 1.0000 | Domain Acc = 0.0043 | Random AUC = 0.9782
+
+=================================================================
+  PREPROCESSING ABLATION SUMMARY
+=================================================================
+            Method  Domain Accuracy  Random-label AUC  Disease AUC  Time (s)
+histogram_matching         0.000859          0.957130          1.0      1600
+           z_score         0.000000          0.991197          1.0      1549
+        clahe_hist         1.000000          0.819302          1.0      1549
+frequency_suppress         0.004296          0.978189          1.0      1495
+
+  Best reduction in shortcut achieved by: clahe_hist
+  Random-label AUC dropped to: 0.8193 (Target: ~0.5)
+  Domain Accuracy reached    : 1.0000 (Target: 0.45-0.60)
+
+[DONE]
